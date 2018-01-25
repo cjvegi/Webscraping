@@ -1,0 +1,1201 @@
+views,paid_amount,transaction,name,date,city,state
+131,"1,000",Background or Personal Verification,Police,2018-01-23,Shimoga,Karnataka
+139,"1,500",Police Verification for Passport,Passport,2018-01-23,Ghaziabad,Uttar
+149,500,Traffic Violations,Police,2018-01-23,Margao,Goa
+192,500,Traffic Violations,Police,2018-01-22,New,Delhi
+249,30,Duplicate Driving License,Transport,2018-01-20,Jamshedpur,Jharkhand
+339,"18,000",Transfer of Property,Stamps and Registration,2018-01-19,Bangalore,Karnataka
+320,70,Activities on Beat,Police,2018-01-19,Proddatur,Andhra
+368,"2,00,000",Police Harassment,Police,2018-01-18,Bangalore,Karnataka
+331,450,Traffic Violations,Police,2018-01-18,Pune,Maharashtra
+336,"6,400",Driving licence Process,Transport,2018-01-18,Udumalaipettai,Tamil
+333,"5,000",Admission to College,Education,2018-01-17,Abohar,Punjab
+327,"1,000",False Allegations,Police,2018-01-17,Gobichettipalayam,Tamil
+361,300,Police Verification for Passport,Passport,2018-01-16,Tiruppur,Tamil
+318,200,Change of Address in Driving License,Transport,2018-01-16,Tiruppur,Tamil
+375,500,Police Verification for Passport,Police,2018-01-14,Karnal,Haryana
+356,"1,000",Police Harassment,Police,2018-01-14,Siliguri,West
+436,"10,000",New Borewell connection,Water and Sewage,2018-01-12,Bangalore,Karnataka
+415,"1,500",Learners License,Transport,2018-01-12,Coimbatore,Tamil
+387,"18,000",Khata Transfer,Stamps and Registration,2018-01-12,Bangalore,Karnataka
+428,"1,000",Police Verification for Passport,Police,2018-01-11,Latur,Maharashtra
+357,"25,000",To prevent shutdown of premises,Food and Drug Administration,2018-01-11,Cuddalore,Tamil
+415,"6,000",Police Verification for Passport,Passport,2018-01-11,New,Delhi
+335,"2,00,000",Building Construction Approval,Municipal Services,2018-01-11,Bangalore,Karnataka
+323,500,Traffic Violations,Transport,2018-01-10,Bangalore,Karnataka
+381,"3,000",Lodging Police Complaint,Police,2018-01-10,Bangalore,Karnataka
+304,700,Police Verification for Passport,Police,2018-01-09,Indore,Madhya
+388,400,Police Verification for Passport,Passport,2018-01-08,Chennai,Tamil
+378,400,Police Verification for Passport,Police,2018-01-08,Bangalore,Karnataka
+371,200,Police Verification for Passport,Police,2018-01-06,Bangalore,Karnataka
+388,"60,000",Police Harassment,Police,2018-01-06,Kanpur,Uttar
+516,"5,000",Transfer of Vehicle Registration,Transport,2018-01-05,Pune,Maharashtra
+415,300,Traffic Violations,Police,2018-01-05,Bangalore,Karnataka
+496,"35,000",Others,Others,2018-01-04,Bangalore,Karnataka
+460,500,Birth Certificate,Municipal Services,2018-01-03,Dindigul,Tamil
+496,"1,00,000",Others,Others,2018-01-02,Vijaypur,Uttarakhand
+541,"5,00,000",Admission to College,Education,2017-12-31,Bangalore,Karnataka
+517,200,Activities on Beat,Police,2017-12-30,Chennai,Tamil
+676,500,Birth Certificate,Municipal Services,2017-12-28,Meerut,Uttar
+594,"8,000",New Khata Certificate,Municipal Services,2017-12-27,Bangalore,Karnataka
+678,"10,000",Activities on Beat,Police,2017-12-27,Bangalore,Karnataka
+612,"1,000",Police Verification for Passport,Police,2017-12-27,Bangalore,Karnataka
+607,600,Police Verification for Passport,Police,2017-12-26,Bangalore,Karnataka
+690,"13,053",Excise Tax Collection,"Customs, Excise and Service Tax",2017-12-26,Bangalore,Karnataka
+662,"1,000",New Passport Application,Passport,2017-12-26,Chennai,Tamil
+487,800,Police Investigation,Police,2017-12-24,Kanpur,Uttar
+631,"16,000",Registration of Property,Municipal Services,2017-12-24,Bangalore,Karnataka
+425,500,Police Verification for Passport,Police,2017-12-24,Ghaziabad,Uttar
+386,"5,000",Assessment,Urban Development Authorities,2017-12-23,Bangalore,Karnataka
+399,200,Traffic Violations,Police,2017-12-23,Bangalore,Karnataka
+371,"2,000",Non Availability Certificate,Municipal Services,2017-12-22,Kadiri,Andhra
+439,"4,000",New Connection for Houses,Electricity and Power Supply,2017-12-22,Sangli,Maharashtra
+364,"3,000",Traffic Violations,Police,2017-12-22,Bangalore,Karnataka
+355,500,Police Clearance Certificate,Police,2017-12-21,Mumbai,Maharashtra
+358,"2,000",Police Harassment,Police,2017-12-21,Thane,Maharashtra
+494,"1,500",New Labour License and Registration,Labour,2017-12-19,Bangalore,Karnataka
+404,"50,000",Loan Sanctioning,Banking,2017-12-18,Gurgaon,Haryana
+499,"1,000",Meter Replacement,Electricity and Power Supply,2017-12-18,Madurai,Tamil
+468,"2,000",Loan Sanctioning,Banking,2017-12-18,Bangalore,Karnataka
+611,"35,000",Services like Movement of Poles and Wires,Electricity and Power Supply,2017-12-15,Chennai,Tamil
+594,"15,000",Patta Document,Municipal Services,2017-12-15,Chennai,Tamil
+622,"15,000",Registration of House,Stamps and Registration,2017-12-15,Chennai,Tamil
+606,500,Police Verification for Passport,Police,2017-12-15,Bangalore,Karnataka
+449,"50,000",Land Conversion: Residential to Commercial,Municipal Services,2017-12-15,Thrissur,Kerala
+479,250,Birth Certificate,Municipal Services,2017-12-15,Bangalore,Karnataka
+517,80,Traffic Violations,Police,2017-12-14,Chennai,Tamil
+449,750,Activities on Beat,Police,2017-12-14,Bangalore,Karnataka
+412,200,Government Hospital,Health and Family Welfare,2017-12-13,Bangalore,Karnataka
+501,"15,000",Registration of Flat or Apartment,Stamps and Registration,2017-12-13,Bangalore,Karnataka
+466,500,Death certificate,Municipal Services,2017-12-11,Bangalore,Karnataka
+581,"9,000",Land Registration,Stamps and Registration,2017-12-10,Bangalore,Karnataka
+662,200,Smartcard License,Transport,2017-12-08,Bangalore,Karnataka
+560,"28,000",New Labour License and Registration,Labour,2017-12-08,Bangalore,Karnataka
+704,"1,000",Traffic Violations,Police,2017-12-03,Surat,Gujarat
+795,100,License Plate,Transport,2017-12-03,Bangalore,Karnataka
+856,400,Arms License,Police,2017-12-01,Bangalore,Karnataka
+880,"5,000",Pension Processing,Education,2017-11-29,Etah,Uttar
+102,500,Berth Allocation,Railways,2017-11-28,Asansol,West
+975,"20,000",Sales Tax Payment,"Commercial Tax, Sales Tax, VAT",2017-11-27,Agra,Uttar
+920,"3,000",Assessment,"Commercial Tax, Sales Tax, VAT",2017-11-25,Bangalore,Karnataka
+885,"8,500",Voter Registration,Municipal Services,2017-11-25,Bangalore,Karnataka
+906,100,Residence certificate,Municipal Services,2017-11-24,Malappuram,Kerala
+877,"1,000",Lodging Police Complaint,Police,2017-11-24,Bangalore,Karnataka
+124,700,Reissue of Passport,Passport,2017-11-20,Bangalore,Karnataka
+114,"3,500",Power of Attorney Registration,Stamps and Registration,2017-11-20,New,Delhi
+895,"7,000",Customs,Airports,2017-11-20,Chennai,Tamil
+865,300,Traffic Violations,Transport,2017-11-20,Chennai,Tamil
+902,100,Emission Check Certificate,Transport,2017-11-19,Saharanpur,Uttar
+852,"6,000",False Allegations,Police,2017-11-18,Faizabad,Uttar
+961,100,Retrieval of lost items,Police,2017-11-16,Bijapur,Karnataka
+106,"50,000",Transformer Maintenance,Electricity and Power Supply,2017-11-16,Tumkur,Karnataka
+108,"1,00,000",Assessment,Income Tax,2017-11-15,Navsari,Gujarat
+922,800,Trade License,Municipal Services,2017-11-14,Kolkata,West
+947,500,Police Harassment,Police,2017-11-12,Ahmedabad,Gujarat
+977,"1,000",Police Verification for Passport,Police,2017-11-10,Bangalore,Karnataka
+976,"1,000",False Allegations,Police,2017-11-09,Thiruvallur,Tamil
+119,300,Police Harassment,Police,2017-11-07,Gurgaon,Haryana
+132,"3,00,000",Others,Others,2017-11-03,Shimoga,Karnataka
+159,"10,000",Activities on Beat,Police,2017-11-02,Bangalore,Karnataka
+114,"12,000",Registration of Flat or Apartment,Urban Development Authorities,2017-11-02,Bangalore,Karnataka
+151,800,Police Verification for Passport,Passport,2017-11-02,Kanpur,Uttar
+121,"1,000",Traffic Violations,Police,2017-11-02,Ahmedabad,Gujarat
+125,200,Change of Address,Passport,2017-11-01,Bangalore,Karnataka
+105,500,Partition of Property,Stamps and Registration,2017-11-01,Bangalore,Karnataka
+941,500,Police Verification for Passport,Police,2017-10-31,Sonipat,Haryana
+108,"2,000",Pension Transfer,Pension,2017-10-31,Visakhapatnam,Andhra
+943,200,Traffic Violations,Police,2017-10-30,New,Delhi
+889,"16,000",Demonetisation,Banking,2017-10-29,Chennai,Tamil
+129,"80,000",Building Plan Approval,Municipal Services,2017-10-26,Chennai,Tamil
+975,"70,000",Building Plan Approval,Municipal Services,2017-10-26,Chennai,Tamil
+100,"1,000",Police Verification for Passport,Police,2017-10-26,Hyderabad,Telangana
+912,"17,000",Arrested by Police,Police,2017-10-26,Kanpur,Uttar
+103,"21,000",Domicile Certificate,Municipal Services,2017-10-25,Mumbai,Maharashtra
+122,"1,000",Police Verification for Passport,Police,2017-10-22,Jagtial,Telangana
+119,300,Driving licence Process,Transport,2017-10-21,Trivandrum,Kerala
+142,300,Police Verification for Passport,Passport,2017-10-21,Mysore,Karnataka
+125,500,Police Verification for Passport,Police,2017-10-18,Bangalore,Karnataka
+174,"3,000",Marriage Registration,Stamps and Registration,2017-10-16,Kakinada,Andhra
+123,"1,00,000",New Company or Business Registration,"Commercial Tax, Sales Tax, VAT",2017-10-16,Guwahati,Assam
+130,"50,000",Others,Others,2017-10-15,Guwahati,Assam
+117,"15,000",Register as Principal Employer,Labour,2017-10-15,Guwahati,Assam
+133,"15,000",Register as Principal Employer,Labour,2017-10-15,Guwahati,Assam
+138,500,Traffic Violations,Police,2017-10-14,Gwalior,Madhya
+157,500,Police Verification for Passport,Passport,2017-10-13,Bangalore,Karnataka
+154,"15,000",Registration of Flat or Apartment,Stamps and Registration,2017-10-11,Kavali,Andhra
+180,200,Police Verification for Passport,Police,2017-10-11,New,Delhi
+158,"2,00,000",Customs,Airports,2017-10-08,Abohar,Punjab
+121,"10,000",Lodging Police Complaint,Police,2017-10-08,Mumbai,Maharashtra
+129,"30,000",IT scrutiny,Income Tax,2017-10-08,Hyderabad,Telangana
+163,"14,000",Land Registration,Stamps and Registration,2017-10-07,Bangalore,Karnataka
+114,"5,000",Traffic Violations,Police,2017-10-07,Bangalore,Karnataka
+153,50,Aadhaar Card Process,Municipal Services,2017-10-06,Bangalore,Karnataka
+122,300,Police Verification for Passport,Police,2017-10-05,Bangalore,Karnataka
+144,"2,500",Driving licence Process,Transport,2017-10-05,New,Delhi
+100,"4,000",Urban Land Ceiling Clearance Certificate,Revenue,2017-10-04,Yadgir,Karnataka
+141,"4,000",Urban Land Ceiling Clearance Certificate,Revenue,2017-10-04,Yadgir,Karnataka
+124,500,Police Verification for Passport,Passport,2017-10-04,Noida,Uttar
+118,"20,000",Trade License,Municipal Services,2017-10-04,Bangalore,Karnataka
+126,"8,000",Registration of Flat or Apartment,Stamps and Registration,2017-10-02,Bangalore,Karnataka
+151,"12,000",Change of Name in Records,Electricity and Power Supply,2017-09-29,Bangalore,Karnataka
+144,200,Traffic Violations,Police,2017-09-29,Pune,Maharashtra
+146,50,Activities on Beat,Police,2017-09-27,Theni,Tamil
+127,500,Traffic Violations,Police,2017-09-26,Bangalore,Karnataka
+152,300,House Tax,Municipal Services,2017-09-25,Bangalore,Karnataka
+124,500,Police Harassment,Police,2017-09-25,Bangalore,Karnataka
+161,500,Electrical Inspection,Electricity and Power Supply,2017-09-23,Ludhiana,Punjab
+103,"1,300",Background Verification,Police,2017-09-23,Hubli,Karnataka
+125,"52,000",Attestation,Education,2017-09-21,Alleppey,Kerala
+146,"50,000",Contract Work,Water and Sewage,2017-09-21,Unnao,Uttar
+130,500,Khata Transfer,Municipal Services,2017-09-21,Bangalore,Karnataka
+132,"7,000",Transformer Maintenance,Electricity and Power Supply,2017-09-20,Tiruchirappalli,Tamil
+121,"25,000",Building Plan Approval,Municipal Services,2017-09-18,Pune,Maharashtra
+193,"12,000",Land Registration,Stamps and Registration,2017-09-17,Bangalore,Karnataka
+142,200,Property Tax,Revenue,2017-09-15,Tumkur,Karnataka
+198,"10,00,000",Loan Sanctioning,Banking,2017-09-13,Bally,West
+142,700,Traffic Violations,Police,2017-09-13,Panaji,Goa
+134,500,Police Verification for Passport,Police,2017-09-11,Raipur,Chhattisgarh
+179,120,Others,Others,2017-09-11,Noida,Uttar
+157,"20,000",Registration of Property,Stamps and Registration,2017-09-11,Bangalore,Karnataka
+134,"20,000",Land Registration,Stamps and Registration,2017-09-10,Bangalore,Karnataka
+121,"5,000",Customs,Airports,2017-09-10,Hyderabad,Telangana
+181,"20,000",Trade License,Municipal Services,2017-09-09,Bangalore,Karnataka
+106,"2,500",7/12 Extract,Revenue,2017-09-09,Shimoga,Karnataka
+123,"3,000",False Allegations,Police,2017-09-07,Thane,Maharashtra
+103,"10,000",Property Tax,Revenue,2017-09-07,Tumkur,Karnataka
+100,"10,000",Additional power for High Tension installations,Electricity and Power Supply,2017-09-07,Warangal,Telangana
+978,100,Background or Personal Verification,Police,2017-09-06,Bangalore,Karnataka
+112,"1,500",Police Verification for Passport,Police,2017-09-05,Sidhi,Madhya
+147,700,Police Verification for Passport,Passport,2017-09-05,Haldwani,Uttarakhand
+149,120,License Plate,Transport,2017-09-05,New,Delhi
+110,400,Assessment,Urban Development Authorities,2017-09-05,Chennai,Tamil
+915,500,Police Verification for Passport,Police,2017-09-05,Bangalore,Karnataka
+116,"2,000",New Domestic Driving License,Transport,2017-09-04,Bangalore,Karnataka
+920,"50,000",Issue of Ration Card,"Food, Civil Supplies and Consumer Affairs",2017-09-04,Bahraich,Uttar
+140,100,Immigration Check,Airports,2017-09-04,Abhayapuri,Assam
+106,500,Police Harassment,Police,2017-09-03,Mumbai,Maharashtra
+953,"10,000",Driving licence Process,Transport,2017-09-03,Raichur,Karnataka
+102,"1,000",Police Harassment,Police,2017-09-02,Chennai,Tamil
+125,"1,500",Police Verification for Passport,Passport,2017-09-01,Ghaziabad,Uttar
+987,"1,00,000",Admission to School,Education,2017-09-01,Navi,Mumbai
+118,"2,000",Police Verification for Passport,Passport,2017-08-31,Madhubani,Bihar
+115,500,Police Verification for Passport,Police,2017-08-31,Bhopal,Madhya
+104,"50,000",Loan Sanctioning,Banking,2017-08-30,Abhayapuri,Assam
+127,"5,000",Others,Others,2017-08-30,Bangalore,Karnataka
+156,"1,500",Meter Transfer,Electricity and Power Supply,2017-08-30,Bangalore,Karnataka
+101,"12,000",7/12 Extract,Revenue,2017-08-30,Bangalore,Karnataka
+120,"35,000",Registration of Property,Stamps and Registration,2017-08-30,Bangalore,Karnataka
+111,"2,000",Marriage Registration,Stamps and Registration,2017-08-30,Bangalore,Karnataka
+114,150,Stamp Duty,Stamps and Registration,2017-08-29,Pune,Maharashtra
+861,"2,000",Application for TDR,Stamps and Registration,2017-08-29,Bangalore,Karnataka
+889,"20,000",Registration of Flat or Apartment,Stamps and Registration,2017-08-29,Bangalore,Karnataka
+107,"6,000",Police Verification for Passport,Police,2017-08-28,Pune,Maharashtra
+102,500,Land Acquisition,Urban Development Authorities,2017-08-25,Jaipur,Rajasthan
+102,500,7/12 Extract,Revenue,2017-08-24,Tumkur,Karnataka
+109,"1,000",Lodging Police Complaint,Police,2017-08-24,Tumkur,Karnataka
+102,"5,000",Urban Land Ceiling Clearance Certificate,Revenue,2017-08-22,Chikmagalur,Karnataka
+121,"30,000",Registration of Flat or Apartment,Stamps and Registration,2017-08-22,Bangalore,Karnataka
+117,"1,500",New Company or Business Registration,"Commercial Tax, Sales Tax, VAT",2017-08-21,Bangalore,Karnataka
+103,100,Traffic Violations,Police,2017-08-21,Bangalore,Karnataka
+102,50,7/12 Extract,Revenue,2017-08-20,Ahmadnagar,Maharashtra
+159,200,Customs Check and Clearance,"Customs, Excise and Service Tax",2017-08-18,Bangalore,Karnataka
+158,"54,000",Temporary Connection,Electricity and Power Supply,2017-08-18,Coimbatore,Tamil
+135,"1,000",Bribing of Government Officers,Public Services,2017-08-17,Mumbai,Maharashtra
+138,"5,000",VAT Registration,"Commercial Tax, Sales Tax, VAT",2017-08-17,New,Delhi
+145,"3,000",Duplicate Driving License,Transport,2017-08-17,Tiruvannamalai,Tamil
+133,500,Police Verification for Passport,Police,2017-08-16,Bangalore,Karnataka
+140,"1,00,000",Meter Installation,Electricity and Power Supply,2017-08-15,Moradabad,Uttar
+121,"2,000",Tax Clearance Certificate,"Commercial Tax, Sales Tax, VAT",2017-08-15,Solapur,Maharashtra
+154,"1,200",Berth Allocation,Railways,2017-08-14,Kanpur,Uttar
+128,500,Police Verification for Passport,Police,2017-08-14,Kota,Rajasthan
+137,300,Background Verification,Police,2017-08-12,Mumbai,Maharashtra
+143,200,Traffic Violations,Transport,2017-08-12,Bangalore,Karnataka
+162,"10,000",Filing Taxes,Income Tax,2017-08-11,Chennai,Tamil
+133,"10,00,000",Government Hospital,Health and Family Welfare,2017-08-10,Kolkata,West
+130,100,Traffic Violations,Police,2017-08-10,Bangalore,Karnataka
+181,"3,000",Renewal of Domestic Driving License,Transport,2017-08-08,Bangalore,Karnataka
+178,"8,000",Change of Name in Property documents,Stamps and Registration,2017-08-08,Shimoga,Karnataka
+220,"20,000",Khata Transfer,Municipal Services,2017-08-07,Bangalore,Karnataka
+173,500,Others,Others,2017-08-07,Bangalore,Karnataka
+143,"3,500",Salary Related,Health and Family Welfare,2017-08-07,Hassan,Karnataka
+167,"1,000",Immigration Check,Airports,2017-08-05,Abhayapuri,Assam
+200,500,Police Verification for Passport,Passport,2017-08-04,Bangalore,Karnataka
+174,500,Police Verification for Passport,Passport,2017-08-04,Bangalore,Karnataka
+121,"3,000",Check Post,Forest,2017-08-03,Pollachi,Tamil
+118,"3,000",Check Post,Forest,2017-08-03,Pollachi,Tamil
+148,"2,000",New International Driving License,Transport,2017-08-03,Bangalore,Karnataka
+139,"2,000",New International Driving License,Transport,2017-08-03,Bangalore,Karnataka
+184,"3,000",Proof of Export,"Customs, Excise and Service Tax",2017-08-01,Chennai,Tamil
+140,650,Contract Work,Railways,2017-08-01,Chennai,Tamil
+160,"1,23,000",Residence Certificate,Revenue,2017-07-31,Bangalore,Karnataka
+198,"3,500",Registration of Flat or Apartment,Stamps and Registration,2017-07-31,Chennai,Tamil
+173,"1,000",Leave and License Agreement,Stamps and Registration,2017-07-29,Chilakaluripet,Andhra
+201,"4,000",Garbage Collection,Municipal Services,2017-07-28,Dindigul,Tamil
+167,"3,500",Garbage Collection,Municipal Services,2017-07-28,Dindigul,Tamil
+178,"5,000",Salary Withdrawal,Education,2017-07-28,Tumkur,Karnataka
+219,"2,000",Police Verification for Passport,Passport,2017-07-27,Ghaziabad,Uttar
+196,"2,000",False Allegations,Police,2017-07-26,Bangalore,Karnataka
+166,"2,14,000",Police Harassment,Police,2017-07-25,Palakkad,Kerala
+168,500,Background Verification,Police,2017-07-22,Bhopal,Madhya
+207,"2,000",Change of Name in Birth Certificate,Municipal Services,2017-07-20,Bangalore,Karnataka
+170,800,Police Verification for Passport,Police,2017-07-20,Bangalore,Karnataka
+139,"5,000",House Tax,Urban Development Authorities,2017-07-19,Chennai,Tamil
+113,800,Contract Work,Public Sector Undertakings,2017-07-17,Bangalore,Karnataka
+132,500,Cremation,Municipal Services,2017-07-17,Tiruchirappalli,Tamil
+150,500,Tenant Verification,Police,2017-07-15,Shajapur,Madhya
+162,"1,000",Police Verification for Passport,Passport,2017-07-15,Dehri-on-Sone,Bihar
+164,100,Vehicle Registration Extract,Transport,2017-07-12,Bangalore,Karnataka
+163,100,Traffic Violations,Transport,2017-07-12,Mumbai,Maharashtra
+161,"1,500",Traffic Violations,Police,2017-07-12,Pune,Maharashtra
+169,550,Vehicle Transport Booking,Railways,2017-07-12,Pune,Maharashtra
+163,200,False Allegations,Police,2017-07-11,Pimpri-Chinchwad,Maharashtra
+145,"2,000",Business Visa,Bureau of Immigration,2017-07-11,Sirkali,Tamil
+165,300,Vehicle Insurance,Transport,2017-07-07,Navi,Mumbai
+173,"36,000",7/12 Extract,Revenue,2017-07-07,Suryapet,Telangana
+149,"2,500",Renewal of Domestic Driving License,Transport,2017-07-07,Tiruvannamalai,Tamil
+184,"1,500",Property Tax,Municipal Services,2017-07-06,Chennai,Tamil
+142,"10,000",Sales Tax Clearance Certificate,"Commercial Tax, Sales Tax, VAT",2017-07-05,Tenkasi,Tamil
+136,500,Traffic Violations,Police,2017-07-04,Bangalore,Karnataka
+124,"15,000",,,2017-07-04,Bangalore,Karnataka
+139,150,Birth Certificate,Municipal Services,2017-07-04,Bangalore,Karnataka
+129,300,Services at Station,Railways,2017-07-03,Gondiya,Maharashtra
+160,"1,000",Renewal of Passport,Passport,2017-07-03,Ghaziabad,Uttar
+141,"11,000",Customs,Airports,2017-07-03,Mumbai,Maharashtra
+112,100,Pension Processing,Pension,2017-07-02,Udumalaipettai,Tamil
+110,"10,000",Loan Sanctioning,Banking,2017-07-02,Barabanki,Uttar
+134,"5,000",Registration of Flat or Apartment,Stamps and Registration,2017-07-01,Bangalore,Karnataka
+155,"1,000",Police Verification for Passport,Passport,2017-06-28,Pimpri-Chinchwad,Maharashtra
+139,250,Traffic Violations,Police,2017-06-28,Dewas,Madhya
+136,250,Police Harassment,Police,2017-06-27,Bangalore,Karnataka
+125,"13,000",7/12 Extract,Revenue,2017-06-26,Bangalore,Karnataka
+147,50,Updating Passport,Passport,2017-06-24,Greater,Noida
+157,750,Reconnection of Electricity,Electricity and Power Supply,2017-06-23,Trivandrum,Kerala
+151,"1,000",Police Verification for Passport,Police,2017-06-22,Gurgaon,Haryana
+139,"1,000",Police Verification for Passport,Passport,2017-06-21,Roorkee,Uttarakhand
+144,"10,000",Transfer of Property,Stamps and Registration,2017-06-21,Ganjam,Orissa
+138,400,Police Verification for Passport,Police,2017-06-21,Kolkata,West
+129,"3,000",Pension Processing,Education,2017-06-21,Coimbatore,Tamil
+172,500,Police Verification for Passport,Police,2017-06-18,Dumdum,West
+167,500,Police Verification for Passport,Police,2017-06-17,Dumdum,West
+159,"2,000",Changes in RC Book,Transport,2017-06-17,Bangalore,Karnataka
+195,"14,000",Registration of Property,Municipal Services,2017-06-15,Bangalore,Karnataka
+156,40,Gas Cylinder Supply,"Food, Civil Supplies and Consumer Affairs",2017-06-14,Bangalore,Karnataka
+130,250,Check Post,Forest,2017-06-14,Udumalaipettai,Tamil
+149,"8,000",Registration of Sale Deed,Stamps and Registration,2017-06-13,Bangalore,Karnataka
+158,300,Encumbrance Certificate,Stamps and Registration,2017-06-13,Bangalore,Karnataka
+165,800,Police Harassment,Police,2017-06-13,Hyderabad,Telangana
+148,800,Police Harassment,Police,2017-06-13,Hyderabad,Telangana
+137,"2,00,000",Others,Others,2017-06-12,Bulandshahr,Uttar
+119,500,Police Verification for Passport,Police,2017-06-12,Bangalore,Karnataka
+143,"5,000",Liquor License,Municipal Services,2017-06-12,Surat,Gujarat
+146,100,Passport Delivery,Passport,2017-06-10,Bokaro,Jharkhand
+139,"20,000",Building Plan Approval,Urban Development Authorities,2017-06-09,Madurai,Tamil
+125,"1,000",Traffic Violations,Police,2017-06-08,Bangalore,Karnataka
+174,"12,000",Filing FIR,Police,2017-06-08,New,Delhi
+145,"12,000",Crime Incident,Police,2017-06-08,New,Delhi
+155,500,Police Verification for Passport,Passport,2017-06-07,Deoria,Uttar
+116,500,Traffic Violations,Police,2017-06-06,Bangalore,Karnataka
+130,"20,000",Construction Permit,Urban Development Authorities,2017-06-05,Madurai,Tamil
+189,"8,000",Others,Others,2017-06-05,Bangalore,Karnataka
+123,50,Post Delivery,Post Office,2017-06-05,Noida,Uttar
+142,"20,000",Others,Others,2017-06-04,Ahmedabad,Gujarat
+130,"2,000",Police Clearance Certificate,Police,2017-06-02,Greater,Noida
+151,80,Others,Others,2017-06-01,Mathura,Uttar
+204,700,Meter Transfer,Electricity and Power Supply,2017-05-30,Coimbatore,Tamil
+170,"10,000",Building Construction Approval,Municipal Services,2017-05-30,Raichur,Karnataka
+201,300,Registration of Property,Stamps and Registration,2017-05-29,Barasat,West
+161,300,7/12 Extract,Revenue,2017-05-29,Visakhapatnam,Andhra
+183,300,Police Verification for Passport,Passport,2017-05-29,Rajauri,Jammu
+171,"1,000",Marriage Certificate,Stamps and Registration,2017-05-29,Bangalore,Karnataka
+192,"1,500",Traffic Violations,Transport,2017-05-28,Pune,Maharashtra
+154,500,Restore Power Supply,Electricity and Power Supply,2017-05-27,Thiruvananthapuram,Kerala
+147,"1,500",Activities on Beat,Police,2017-05-27,Tiruppur,Tamil
+159,200,Traffic Violations,Police,2017-05-26,Chennai,Tamil
+132,800,Police Verification for Passport,Police,2017-05-24,Saharanpur,Uttar
+140,"1,45,000",Property Tax,Revenue,2017-05-24,Bangalore,Karnataka
+138,"8,00,000",Additional power for High Tension installations,Electricity and Power Supply,2017-05-22,Tiruppur,Tamil
+171,"1,500",Driving licence Process,Transport,2017-05-20,Bangalore,Karnataka
+167,"4,000",Registration of Mortgage Deed,Stamps and Registration,2017-05-20,Hyderabad,Telangana
+175,200,Traffic Violations,Police,2017-05-19,Chennai,Tamil
+192,"5,000",New Company or Business Registration,"Commercial Tax, Sales Tax, VAT",2017-05-17,Bangalore,Karnataka
+153,300,Tenant Verification,Police,2017-05-17,Nashik,Maharashtra
+164,100,Background Verification,Police,2017-05-15,Vadodara,Gujarat
+182,100,Emission Check Certificate,Transport,2017-05-13,Bangalore,Karnataka
+161,"2,000",Pension Processing,Pension,2017-05-12,Bangalore,Karnataka
+191,"1,500",Police Verification for Passport,Passport,2017-05-11,Murshidabad,West
+175,"1,000",Marriage Certificate,Stamps and Registration,2017-05-11,Bangalore,Karnataka
+141,100,Traffic Violations,Police,2017-05-11,Bangalore,Karnataka
+139,"10,000",Bill Payment,Water and Sewage,2017-05-11,Bangalore,Karnataka
+145,50,Subversion of Financial Norms,Banking,2017-05-10,Gulbarga,Karnataka
+140,"10,000",Loan Sanctioning,Banking,2017-05-09,Jhabua,Madhya
+129,400,Traffic Violations,Police,2017-05-09,Bangalore,Karnataka
+146,100,Re registration of Vehicle,Transport,2017-05-08,Bangalore,Karnataka
+161,"1,000",Police Verification for Passport,Police,2017-05-06,Ghaziabad,Uttar
+152,500,Police Verification for Passport,Passport,2017-05-06,Ambala,Haryana
+144,100,Government Hospital,Health and Family Welfare,2017-05-05,Bangalore,Karnataka
+134,20,Government Hospital,Health and Family Welfare,2017-05-05,Bangalore,Karnataka
+164,500,Power of Attorney Registration,Stamps and Registration,2017-05-03,Chennai,Tamil
+129,"10,000",Salary Related,Health and Family Welfare,2017-05-03,Visakhapatnam,Andhra
+165,"2,500",New Domestic Driving License,Transport,2017-05-03,New,Delhi
+170,"4,000",Retrieval of lost items,Police,2017-05-03,New,Delhi
+152,"1,000",Re registration of Vehicle,Transport,2017-05-01,Pune,Maharashtra
+160,"2,000",Assessment,"Commercial Tax, Sales Tax, VAT",2017-04-29,Bangalore,Karnataka
+166,"60,000",Road Permit,"Commercial Tax, Sales Tax, VAT",2017-04-28,Kolkata,West
+135,"30,000",Road Permit,"Commercial Tax, Sales Tax, VAT",2017-04-28,Koratla,Telangana
+172,"4,000",Service Tax Registration,"Customs, Excise and Service Tax",2017-04-28,Tirupati,Andhra
+144,"11,00,000",Khata Transfer,Stamps and Registration,2017-04-28,Bangalore,Karnataka
+137,200,Restore Power Supply,Electricity and Power Supply,2017-04-28,Thiruvananthapuram,Kerala
+133,"1,100",Registration of Mortgage Deed,Stamps and Registration,2017-04-27,Bangalore,Karnataka
+141,"1,600",Driving licence Process,Transport,2017-04-26,Raisen,Madhya
+152,100,Encumbrance Certificate,Municipal Services,2017-04-26,Bangalore,Karnataka
+154,"1,500",Property Tax,Municipal Services,2017-04-26,Bangalore,Karnataka
+148,500,Others,Others,2017-04-25,Bangalore,Karnataka
+129,"1,000",Background or Personal Verification,Police,2017-04-25,Bangalore,Karnataka
+114,"1,500",Police Verification for Passport,Police,2017-04-25,Surendranagar,Gujarat
+156,600,Aadhaar or UID Related,Municipal Services,2017-04-24,New,Delhi
+143,300,Learners License,Transport,2017-04-24,Mumbai,Maharashtra
+128,"2,200",New Domestic Driving License,Transport,2017-04-22,Bangalore,Karnataka
+129,"20,000",Registration of Property,Stamps and Registration,2017-04-22,Bangalore,Karnataka
+136,"20,000",VAT Registration,"Commercial Tax, Sales Tax, VAT",2017-04-21,Bangalore,Karnataka
+135,"2,500",Others,Others,2017-04-21,Bangalore,Karnataka
+126,500,Police Verification for Passport,Police,2017-04-20,Neyveli,Tamil
+123,500,Property Tax,Revenue,2017-04-20,Bangalore,Karnataka
+105,400,Traffic Violations,Police,2017-04-19,Bangalore,Karnataka
+153,50,Excess Luggage,Railways,2017-04-19,New,Delhi
+125,"10,000",New Company or Business Registration,"Commercial Tax, Sales Tax, VAT",2017-04-19,Bangalore,Karnataka
+184,"1,000",Police Verification for Passport,Passport,2017-04-17,Ghaziabad,Uttar
+127,700,Marriage Certificate,Stamps and Registration,2017-04-17,Bangalore,Karnataka
+131,100,Delivery of Letters and other Post,Post Office,2017-04-15,Barmer,Rajasthan
+140,"25,000",False Allegations,Police,2017-04-14,Saraikela,Jharkhand
+148,"3,000",Background Verification,Police,2017-04-12,Chhatarpur,Madhya
+166,"21,000",Building Construction Approval,Municipal Services,2017-04-12,Bangalore,Karnataka
+168,500,Filing Petition,Judiciary,2017-04-11,Kolkata,West
+146,50,Traffic Violations,Police,2017-04-08,Deoghar,Jharkhand
+201,"3,000",Renewal of Passport,Passport,2017-04-08,Pune,Maharashtra
+153,"15,000",Recruitment,Post Office,2017-04-07,Guna,Madhya
+166,100,Fitness Certificate for Vehicles,Transport,2017-04-07,Bidhan,Nagar
+137,"4,000",Police Verification for Passport,Police,2017-04-07,Sattenapalle,Andhra
+179,700,Police Verification for Passport,Passport,2017-04-07,Thane,Maharashtra
+144,"2,000",Registration of Mortgage Deed,Stamps and Registration,2017-04-06,Bangalore,Karnataka
+131,800,Police Verification for Passport,Police,2017-04-05,Bangalore,Karnataka
+153,300,Driving licence Process,Transport,2017-04-05,Bangalore,Karnataka
+114,"3,000",Police Verification for Passport,Police,2017-04-04,Siliguri,West
+140,200,Police Harassment,Police,2017-04-04,Noida,Uttar
+115,500,Background Verification,Police,2017-04-04,Barasat,West
+140,"10,000",Patient Care,Health and Family Welfare,2017-04-03,Chennai,Tamil
+121,"10,000",Lodging Police Complaint,Police,2017-04-02,Chikmagalur,Karnataka
+127,500,Police Verification for Passport,Police,2017-04-02,Salem,Tamil
+167,"3,000",Customs Check and Clearance,"Customs, Excise and Service Tax",2017-04-01,Siddharthnagar,Uttar
+191,"1,000",Salary Withdrawal,Education,2017-04-01,Varanasi,Uttar
+116,200,Police Verification for Passport,Police,2017-04-01,Bangalore,Karnataka
+162,"1,000",Police Verification for Passport,Passport,2017-03-31,Bangalore,Karnataka
+146,"20,000",Bribing of Government Officers,Public Services,2017-03-30,Kadapa,Andhra
+122,"2,500",Background or Personal Verification,Police,2017-03-30,Kadapa,Andhra
+152,500,Police Verification for Passport,Passport,2017-03-30,Mysore,Karnataka
+132,"5,000",Food Safety Licence,Food and Drug Administration,2017-03-29,Auraiya,Uttar
+161,"2,000",Assessment,Income Tax,2017-03-29,Salem,Tamil
+157,"12,000",Assessment,"Commercial Tax, Sales Tax, VAT",2017-03-28,Ghaziabad,Uttar
+121,700,Police Verification for Passport,Police,2017-03-28,Meerut,Uttar
+151,"7,500",Post Delivery,Post Office,2017-03-27,Mumbai,Maharashtra
+110,"1,000",Police Verification for Passport,Police,2017-03-26,Bangalore,Karnataka
+160,"33,000",Registration of House,Stamps and Registration,2017-03-26,Bangalore,Karnataka
+141,200,Police Verification for Passport,Police,2017-03-25,Lucknow,Uttar
+159,100,Airport facilities,Airports,2017-03-24,Adari,Uttar
+166,"1,500",Others,Others,2017-03-23,Visakhapatnam,Andhra
+113,200,Police Verification for Passport,Police,2017-03-23,Alwar,Rajasthan
+166,"47,000",Building Plan Approval,Municipal Services,2017-03-23,Vijayawada,Andhra
+148,400,Traffic Violations,Police,2017-03-23,Chennai,Tamil
+154,200,Police Verification for Passport,Passport,2017-03-20,Vadodara,Gujarat
+158,"2,000",Others,Others,2017-03-20,Ujjain,Madhya
+203,100,Driving licence Process,Transport,2017-03-20,Bangalore,Karnataka
+170,800,Property Tax,Revenue,2017-03-18,Bangalore,Karnataka
+165,500,Police Verification for Passport,Passport,2017-03-18,Ghaziabad,Uttar
+111,200,Background Verification,Police,2017-03-17,Bangalore,Karnataka
+121,500,Repair of Telephone or Internet Connection,Telecom Services,2017-03-17,Bangalore,Karnataka
+175,"5,000",Land or Building Survey,Municipal Services,2017-03-17,Chikballapur,Karnataka
+118,300,Police Harassment,Police,2017-03-17,Bangalore,Karnataka
+139,45,Encumbrance Certificate,Stamps and Registration,2017-03-16,Bangalore,Karnataka
+121,"2,00,000",False Allegations,Police,2017-03-15,Mangalagiri,Andhra
+156,"2,000",VAT Certificate,"Commercial Tax, Sales Tax, VAT",2017-03-14,Bangalore,Karnataka
+155,100,Traffic Violations,Police,2017-03-13,Chennai,Tamil
+131,50,Repair of Telephone or Internet Connection,Telecom Services,2017-03-13,Dindigul,Tamil
+229,"50,000",Assessment,"Commercial Tax, Sales Tax, VAT",2017-03-13,Mangalagiri,Andhra
+196,"50,000",Service Tax Assessment,"Customs, Excise and Service Tax",2017-03-13,Pune,Maharashtra
+171,150,Others,Others,2017-03-12,Chennai,Tamil
+177,"2,00,000",Immigration Check,Airports,2017-03-11,Hyderabad,Telangana
+138,"1,00,000",Police Clearance Certificate,Police,2017-03-11,Mangalagiri,Andhra
+169,"10,000",Registration of Property,Stamps and Registration,2017-03-09,Kurnool,Andhra
+222,116,PAN Card Issues,Income Tax,2017-03-09,Barbigha,Bihar
+143,"3,700",Others,Others,2017-03-09,Bijapur,Karnataka
+104,600,Traffic Violations,Police,2017-03-08,Bhagalpur,Bihar
+129,"85,000",Others,Others,2017-03-08,Bangalore,Karnataka
+151,"1,500",New Company or Business Registration,"Commercial Tax, Sales Tax, VAT",2017-03-08,Bangalore,Karnataka
+170,100,Traffic Violations,Transport,2017-03-07,Ahmedabad,Gujarat
+115,"3,500",Traffic Violations,Police,2017-03-07,Bangalore,Karnataka
+136,"18,000",Medical Reimbursement claim,Health and Family Welfare,2017-03-06,Rampur,Uttar
+131,"18,000",Medical Reimbursement claim,Health and Family Welfare,2017-03-06,Bilaspur,Himachal
+181,400,Issue of Ration Card,"Food, Civil Supplies and Consumer Affairs",2017-03-06,Chennai,Tamil
+153,"1,400",Marriage Certificate,Stamps and Registration,2017-03-05,Bangalore,Karnataka
+218,"15,000",Dates for Hearing,Judiciary,2017-03-05,Mumbai,Maharashtra
+157,"1,500",Traffic Violations,Police,2017-03-04,Chennai,Tamil
+120,750,Traffic Violations,Police,2017-03-02,Bangalore,Karnataka
+163,"1,400",Labour License Renewal,Labour,2017-03-02,Sundargarh,Orissa
+154,"1,000",Police Harassment,Police,2017-03-01,Mangalore,Karnataka
+120,500,Police Verification for Passport,Police,2017-03-01,Palacole,Andhra
+182,210,Admission to College,Education,2017-03-01,New,Delhi
+172,500,Police Verification for Passport,Passport,2017-03-01,Vijayawada,Andhra
+104,500,Police Verification for Passport,Police,2017-03-01,Bangalore,Karnataka
+181,"1,000",Police Verification for Passport,Passport,2017-03-01,Hyderabad,Telangana
+106,"8,000",Traffic Violations,Police,2017-02-28,Bangalore,Karnataka
+106,500,Police Verification for Passport,Police,2017-02-28,Bangalore,Karnataka
+156,"1,000",Loan Sanctioning,Banking,2017-02-28,Bhadrachalam,Telangana
+130,"1,000",Traffic Violations,Police,2017-02-28,Chennai,Tamil
+101,"1,000",,,2017-02-27,Bilaspur,Chhattisgarh
+190,"2,000",TDS,Income Tax,2017-02-27,Salem,Tamil
+140,"24,600",PWD Officers,Public Works Department,2017-02-26,Guwahati,Assam
+135,150,Public Works,Public Works Department,2017-02-26,Surat,Gujarat
+143,600,Activities on Beat,Police,2017-02-25,Gurgaon,Haryana
+196,"4,000",Property Tax,Municipal Services,2017-02-25,Bangalore,Karnataka
+156,"2,000",Marriage Certificate,Stamps and Registration,2017-02-25,Bangalore,Karnataka
+189,"6,500",School or College Related Activities,Education,2017-02-24,Kanpur,Uttar
+188,40,Gas Cylinder Supply,"Food, Civil Supplies and Consumer Affairs",2017-02-24,Bangalore,Karnataka
+172,"24,000",Registration of Property,Stamps and Registration,2017-02-22,Gwalior,Madhya
+185,"2,000",Foreigner Registration and Verification,Police,2017-02-22,Pune,Maharashtra
+188,"2,000",Customs Check and Clearance,"Customs, Excise and Service Tax",2017-02-21,Durgapur,West
+141,"20,000",Transfer of Property,Stamps and Registration,2017-02-21,Bangalore,Karnataka
+169,200,Traffic Violations,Transport,2017-02-20,Anand,Gujarat
+163,"1,000",Family Certificate,Health and Family Welfare,2017-02-20,Abohar,Punjab
+166,"3,000",Repair of Water and Sewage Connection,Water and Sewage,2017-02-20,Bangalore,Karnataka
+147,"10,000",Reconnection of Disconnected Installations,Water and Sewage,2017-02-20,Bangalore,Karnataka
+194,"3,700",Customs,Airports,2017-02-20,Bangalore,Karnataka
+147,"3,500",Vehicle Registration Extract,Transport,2017-02-19,Mumbai,Maharashtra
+199,100,Passport Delivery,Passport,2017-02-17,Gurgaon,Haryana
+159,"4,000",New Labour License and Registration,Labour,2017-02-16,Mira,Bhayandar
+135,500,Police Verification for Passport,Police,2017-02-15,Rasipuram,Tamil
+152,"8,000",Family Certificate,Municipal Services,2017-02-15,Bangalore,Karnataka
+153,500,House Tax,Municipal Services,2017-02-14,Bangalore,Karnataka
+167,"2,500",Gas Cylinder Supply,"Food, Civil Supplies and Consumer Affairs",2017-02-14,Visakhapatnam,Andhra
+149,"2,500",Gas Cylinder Supply,"Food, Civil Supplies and Consumer Affairs",2017-02-14,Visakhapatnam,Andhra
+137,"2,500",Gas Cylinder Supply,"Food, Civil Supplies and Consumer Affairs",2017-02-14,Visakhapatnam,Andhra
+157,100,Meter Installation,Electricity and Power Supply,2017-02-13,Chennai,Tamil
+170,172,Subversion of Financial Norms,Banking,2017-02-13,Pune,Maharashtra
+146,500,Traffic Violations,Police,2017-02-12,Pune,Maharashtra
+155,200,Others,Others,2017-02-12,New,Delhi
+937,200,Traffic Violations,Police,2017-02-12,Bangarapet,Karnataka
+167,"10,000",Electrical Inspection,Electricity and Power Supply,2017-02-10,Madurai,Tamil
+997,200,Traffic Violations,Police,2017-02-10,Bangalore,Karnataka
+153,"1,000",Police Verification for Passport,Passport,2017-02-09,Khammam,Telangana
+146,200,Public Works,Public Works Department,2017-02-08,Sirsi,Uttar
+140,"1,000",Trade License,Municipal Services,2017-02-08,Bangalore,Karnataka
+166,"3,500",Road Tax,Transport,2017-02-08,Navi,Mumbai
+204,800,Marriage Registration,Stamps and Registration,2017-02-08,Hyderabad,Telangana
+172,"5,000",Assessment,Income Tax,2017-02-08,Bangalore,Karnataka
+969,600,Traffic Violations,Police,2017-02-07,Bangalore,Karnataka
+198,30,Bribing of Government Officers,Public Services,2017-02-06,Nashik,Maharashtra
+169,100,Original Marks Card,Education,2017-02-06,Muzaffarnagar,Uttar
+176,"20,000",Activities on Beat,Police,2017-02-05,Pune,Maharashtra
+167,200,Bribing of Government Officers,Public Services,2017-02-04,Bangalore,Karnataka
+126,300,Police Verification for Passport,Police,2017-02-03,Satna,Madhya
+149,"5,000",New Company or Business Registration,"Commercial Tax, Sales Tax, VAT",2017-02-03,Rajahmundry,Andhra
+161,"50,000",Bribing of Government Officers,Public Services,2017-02-03,Kodagu,Karnataka
+177,100,Aadhaar Card Process,Municipal Services,2017-02-03,Chennai,Tamil
+157,"1,00,000",Registration of Flat or Apartment,Stamps and Registration,2017-02-03,Chennai,Tamil
+165,100,Others,Others,2017-02-02,Gurgaon,Haryana
+190,"15,000",Recruitment,Education,2017-02-02,Bulandshahr,Uttar
+145,500,Others,Others,2017-02-02,Chennai,Tamil
+145,"1,000",Police Verification for Passport,Passport,2017-02-02,Udupi,Karnataka
+121,"15,000",Registration of Flat or Apartment,Stamps and Registration,2017-02-01,Bangalore,Karnataka
+129,200,Others,Others,2017-01-31,Srikakulam,Andhra
+147,10,Learners License,Transport,2017-01-31,Mandya,Karnataka
+121,"1,000",Traffic Violations,Police,2017-01-30,Bagalkot,Karnataka
+163,"3,000",Police Verification for Passport,Passport,2017-01-30,Jamshedpur,Jharkhand
+138,"5,500",Registration of Property,Municipal Services,2017-01-30,Bangalore,Karnataka
+176,500,License Plate,Transport,2017-01-29,Mumbai,Maharashtra
+140,"2,000",Marriage Certificate,Stamps and Registration,2017-01-28,Bangalore,Karnataka
+179,"13,000",Change of Name in Property Documents,Municipal Services,2017-01-28,Hyderabad,Telangana
+124,"2,000",Filing FIR,Police,2017-01-27,Bangalore,Karnataka
+140,300,Delivery of Letters and other Post,Post Office,2017-01-25,Bangalore,Karnataka
+135,"3,000",Others,Others,2017-01-24,Kakinada,Andhra
+196,"35,000",Assessment,"Commercial Tax, Sales Tax, VAT",2017-01-24,New,Delhi
+267,250,TTE,Railways,2017-01-23,Vadodara,Gujarat
+138,10,Others,Others,2017-01-23,Bangalore,Karnataka
+163,600,Traffic Violations,Police,2017-01-22,Ahmedabad,Gujarat
+149,"20,000",Police Harassment,Police,2017-01-22,Pune,Maharashtra
+110,100,Traffic Violations,Police,2017-01-21,Bangalore,Karnataka
+151,"50,000",Khata Certificate,Municipal Services,2017-01-19,Bangalore,Karnataka
+123,"5,000",Police Verification for Passport,Police,2017-01-18,Tuticorin,Tamil
+198,500,Railway Parking,Railways,2017-01-18,Jajapur,Orissa
+123,100,Police Verification for Passport,Police,2017-01-17,Ahmadnagar,Maharashtra
+117,100,Police Verification for Passport,Police,2017-01-17,Ahmadnagar,Maharashtra
+183,500,Renewal of Passport,Passport,2017-01-17,Kolkata,West
+102,600,Traffic Violations,Police,2017-01-17,Bangalore,Karnataka
+125,500,Police Verification for Passport,Passport,2017-01-17,Muradnagar,Uttar
+162,800,Police Verification for Passport,Passport,2017-01-16,Patna,Bihar
+183,"85,000",7/12 Extract,Revenue,2017-01-16,Vaishali,Bihar
+171,"50,000",Loan Sanctioning,Banking,2017-01-15,Firozabad,Uttar
+144,420,Traffic Violations,Police,2017-01-14,Jaipur,Rajasthan
+171,200,Confirmation Report,Public Services,2017-01-14,Pune,Maharashtra
+132,900,Police Verification for Passport,Police,2017-01-13,Nanded,Maharashtra
+189,20,Assessment,"Commercial Tax, Sales Tax, VAT",2017-01-13,Ganganagar,Rajasthan
+127,500,False Allegations,Police,2017-01-13,Vaishali,Bihar
+154,"20,000",Registration of Flat or Apartment,Stamps and Registration,2017-01-12,Pune,Maharashtra
+166,150,Others,Others,2017-01-12,Jaipur,Rajasthan
+179,"10,000",Marriage Registration,Stamps and Registration,2017-01-12,Bangalore,Karnataka
+121,"1,500",Police Verification for Passport,Passport,2017-01-12,Bardhaman,West
+116,"7,50,000",Police Harassment,Police,2017-01-11,Nanded,Maharashtra
+116,100,Others,Others,2017-01-11,Hanumangarh,Rajasthan
+149,500,Property Tax,Municipal Services,2017-01-11,Bangalore,Karnataka
+165,150,Others,Others,2017-01-11,New,Delhi
+119,350,Traffic Violations,Police,2017-01-10,Pune,Maharashtra
+192,"1,500",Water Connection under Sajala,Water and Sewage,2017-01-09,Pimpri-Chinchwad,Maharashtra
+163,"3,500",Transfer of Vehicle Registration,Transport,2017-01-09,Panaji,Goa
+148,100,Aadhaar Card Process,Municipal Services,2017-01-09,Kalyan,Maharashtra
+155,200,Traffic Violations,Police,2017-01-08,Gurgaon,Haryana
+156,"1,000",Police Verification for Passport,Passport,2017-01-08,Ghaziabad,Uttar
+143,"50,000",Trade License,Municipal Services,2017-01-07,Nanded,Maharashtra
+133,"1,000",Police Clearance Certificate,Passport,2017-01-07,Nanded,Maharashtra
+134,"1,000",Police Verification for Passport,Police,2017-01-07,Nanded,Maharashtra
+125,"6,500",Others,Others,2017-01-07,Bangalore,Karnataka
+168,500,Traffic Violations,Police,2017-01-07,Ahmedabad,Gujarat
+127,20,Others,Others,2017-01-07,Faizabad,Uttar
+172,500,Change of Address,"Commercial Tax, Sales Tax, VAT",2017-01-06,Gurgaon,Haryana
+132,100,False Allegations,Police,2017-01-06,Madurai,Tamil
+152,"6,000",VAT Registration,"Commercial Tax, Sales Tax, VAT",2017-01-06,Bangalore,Karnataka
+137,"1,700",Billing or Invoice Errors,"Commercial Tax, Sales Tax, VAT",2017-01-06,Viluppuram,Tamil
+124,30,Traffic Violations,Transport,2017-01-05,Bangalore,Karnataka
+145,"15,000",Assessment,"Commercial Tax, Sales Tax, VAT",2017-01-05,Gurgaon,Haryana
+128,300,Voter ID Card,Municipal Services,2017-01-05,Coimbatore,Tamil
+137,"1,00,000",Storage of Food,"Food, Civil Supplies and Consumer Affairs",2017-01-04,Muktsar,Punjab
+137,100,Others,Others,2017-01-04,Coimbatore,Tamil
+131,"1,000",Government Hospital,Health and Family Welfare,2017-01-04,Bangalore,Karnataka
+155,"3,000",New Connection for Houses,Electricity and Power Supply,2017-01-04,Dehradun,Uttarakhand
+229,"5,000",Registration of Flat or Apartment,Urban Development Authorities,2017-01-04,Bangalore,Karnataka
+132,"20,000",Registration of Sale Deed,Stamps and Registration,2017-01-03,Bangalore,Karnataka
+124,"2,500",Police Verification for Passport,Passport,2017-01-03,Renukoot,Uttar
+111,"1,000",Power of Attorney Registration,Stamps and Registration,2017-01-03,Bangalore,Karnataka
+951,"1,000",Power of Attorney Registration,Stamps and Registration,2017-01-03,Bangalore,Karnataka
+140,"2,500",False Allegations,Police,2017-01-03,Pune,Maharashtra
+111,500,Background or Personal Verification,Police,2017-01-01,Haveri,Karnataka
+106,500,Background or Personal Verification,Police,2017-01-01,Haveri,Karnataka
+123,800,Encumbrance Certificate,Stamps and Registration,2017-01-01,Bangalore,Karnataka
+165,200,Traffic Violations,Police,2017-01-01,Mumbai,Maharashtra
+834,200,Police Verification for Passport,Police,2017-01-01,Bangalore,Karnataka
+125,"2,500",Transfer of Property,Stamps and Registration,2016-12-31,Bangalore,Karnataka
+160,200,Change of Address in Registration Certificate,Transport,2016-12-31,Vellore,Tamil
+142,"34,000",Transferring Name for Inherited Property,Municipal Services,2016-12-30,Jodhpur,Rajasthan
+167,200,Advocate or Legal Services,Judiciary,2016-12-30,Gwalior,Madhya
+115,700,Franking of Sale and Construction Agreement,Stamps and Registration,2016-12-30,Bangalore,Karnataka
+130,"7,000",Arrested by Police,Police,2016-12-29,Aurangabad,Bihar
+195,"1,00,000",Assessment,Income Tax,2016-12-29,New,Delhi
+150,100,Shop Act License,Municipal Services,2016-12-29,Surat,Gujarat
+127,"5,000",VAT Registration,"Commercial Tax, Sales Tax, VAT",2016-12-29,Vellore,Tamil
+137,300,Traffic Violations,Police,2016-12-28,Mysore,Karnataka
+154,"12,000",Change of Faulty Meter,Electricity and Power Supply,2016-12-28,Bangalore,Karnataka
+105,"1,000",Marriage Certificate,Stamps and Registration,2016-12-27,Bangalore,Karnataka
+162,500,Marriage Registration,Stamps and Registration,2016-12-27,Hyderabad,Telangana
+991,200,Police Investigation,Police,2016-12-26,Bangalore,Karnataka
+905,400,Traffic Violations,Police,2016-12-26,Bangalore,Karnataka
+108,"1,000",Application for TDR,Stamps and Registration,2016-12-26,Puttur,Andhra
+154,500,Change of Faulty Meter,Electricity and Power Supply,2016-12-26,Chennai,Tamil
+170,"1,00,000",Customs Check and Clearance,"Customs, Excise and Service Tax",2016-12-26,Silchar,Assam
+139,"2,000",Meter Transfer,Electricity and Power Supply,2016-12-25,Navi,Mumbai
+144,25,General RTO related,Transport,2016-12-25,New,Delhi
+160,"90,000",Retrieval of lost items,Police,2016-12-25,Hyderabad,Telangana
+117,"15,000",Property Tax,Municipal Services,2016-12-25,Bangalore,Karnataka
+191,100,Transport of Goods,Railways,2016-12-24,Varanasi,Uttar
+798,200,Traffic Violations,Police,2016-12-24,Satara,Maharashtra
+751,200,Police Verification for Passport,Police,2016-12-24,Bangalore,Karnataka
+127,100,Traffic Violations,Police,2016-12-24,Mumbai,Maharashtra
+105,"5,000",Crime Incident,Police,2016-12-24,Faridabad,Haryana
+820,800,Background Verification,Police,2016-12-23,Bangalore,Karnataka
+135,500,Traffic Violations,Police,2016-12-23,Panaji,Goa
+165,"1,100",Assessment,"Commercial Tax, Sales Tax, VAT",2016-12-23,Hyderabad,Telangana
+145,50,Delivery of Letters and other Post,Post Office,2016-12-22,Bangalore,Karnataka
+165,300,Traffic Violations,Police,2016-12-21,Ahmedabad,Gujarat
+172,"5,000",Death certificate,Municipal Services,2016-12-21,Visakhapatnam,Andhra
+182,"6,000",Change or correction of name in bill,Water and Sewage,2016-12-21,Bangalore,Karnataka
+154,100,Others,Others,2016-12-20,Pune,Maharashtra
+205,"32,000",Service Tax Return,"Customs, Excise and Service Tax",2016-12-20,Amroha,Uttar
+132,"1,000",Traffic Violations,Police,2016-12-19,Pune,Maharashtra
+143,"4,500",Change of Name in Records,Electricity and Power Supply,2016-12-19,Chennai,Tamil
+119,"1,100",Background Verification,Police,2016-12-19,Dumdum,West
+134,"1,500",Police Verification for Passport,Police,2016-12-18,Raichur,Karnataka
+114,"1,00,000",Illegal Power Theft,Electricity and Power Supply,2016-12-18,Budaun,Uttar
+109,"1,000",Background or Personal Verification,Police,2016-12-18,Moradabad,Uttar
+154,"27,000",Admission to School,Education,2016-12-17,Chennai,Tamil
+145,"27,000",Admission to School,Education,2016-12-17,Chennai,Tamil
+117,120,Aadhaar Card Process,Municipal Services,2016-12-17,Bangalore,Karnataka
+140,400,Change of Address,Passport,2016-12-16,Bangalore,Karnataka
+170,"2,00,000",Inspection of Office or Factories,Labour,2016-12-16,Medak,Telangana
+116,900,Land Registration,Stamps and Registration,2016-12-15,Sangareddy,Telangana
+185,200,Railway Personnel,Railways,2016-12-14,Mumbai,Maharashtra
+166,"7,400",Customs,Airports,2016-12-14,Thiruvananthapuram,Kerala
+143,"80,000",VAT Registration,"Commercial Tax, Sales Tax, VAT",2016-12-14,Bangalore,Karnataka
+134,"2,000",Cleaning Blocked Sewage Line,Water and Sewage,2016-12-14,Bangalore,Karnataka
+111,"5,000",False Allegations,Police,2016-12-14,Bangalore,Karnataka
+148,100,Others,Others,2016-12-13,Mumbai,Maharashtra
+145,"30,000",Registration of Property,Stamps and Registration,2016-12-13,Bangalore,Karnataka
+111,"15,000",Stamp Duty,Stamps and Registration,2016-12-13,Bangalore,Karnataka
+196,"1,00,000",Demonetisation,Banking,2016-12-13,Bangalore,Karnataka
+116,350,Traffic Violations,Police,2016-12-12,Bangalore,Karnataka
+218,"2,000",TIN Application and Number,"Commercial Tax, Sales Tax, VAT",2016-12-11,Bangalore,Karnataka
+151,"3,000",Traffic Violations,Police,2016-12-10,Pune,Maharashtra
+232,"20,000",Khata Transfer,Stamps and Registration,2016-12-10,Mysore,Karnataka
+184,"3,000",Services like Movement of Poles and Wires,Electricity and Power Supply,2016-12-10,Mysore,Karnataka
+177,500,Police Verification for Passport,Passport,2016-12-10,Faridabad,Haryana
+143,100,False Allegations,Police,2016-12-09,Pune,Maharashtra
+194,300,Police Verification for Passport,Passport,2016-12-09,Bhopal,Madhya
+212,"50,000",Customs Check and Clearance,"Customs, Excise and Service Tax",2016-12-09,Raipur,Chhattisgarh
+197,"10,000",Others,Others,2016-12-09,Mumbai,Maharashtra
+130,"1,000",Change of Name in Records,Electricity and Power Supply,2016-12-09,Ambattur,Tamil
+178,"5,000",Pharmacy Registration and License,Food and Drug Administration,2016-12-09,Lucknow,Uttar
+126,"12,000",SSA Related,Social Welfare,2016-12-08,Allahabad,Uttar
+124,"5,000",,,2016-12-08,Chennai,Tamil
+144,5,Birth Certificate,Municipal Services,2016-12-08,Adra,West
+114,90,Encumbrance Certificate,Municipal Services,2016-12-08,Kottayam,Kerala
+116,"10,000",Registration of Sale Deed,Stamps and Registration,2016-12-08,Faizabad,Uttar
+206,"1,000",Police Verification for Passport,Passport,2016-12-07,Lucknow,Uttar
+133,100,Others,Others,2016-12-07,Mumbai,Maharashtra
+137,"2,000",False Allegations,Police,2016-12-07,Noida,Uttar
+395,"1,600",Others,Others,2016-12-07,Bangalore,Karnataka
+139,"25,000",Original Degree Certificate,Education,2016-12-06,Betul,Madhya
+100,"15,000",Land Registration,Stamps and Registration,2016-12-06,Bangalore,Karnataka
+920,"4,500",Traffic Violations,Police,2016-12-06,Bangalore,Karnataka
+946,200,Lodging Police Complaint,Police,2016-12-06,Chittoor,Andhra
+145,"2,00,000",School or College Related Activities,Education,2016-12-05,Mathura,Uttar
+210,"35,000",Adding Name to Ration Card,"Food, Civil Supplies and Consumer Affairs",2016-12-04,Bangalore,Karnataka
+188,"1,000",Vehicle Transport Booking,Railways,2016-12-03,Chennai,Tamil
+190,"1,200",Contract Work,Public Sector Undertakings,2016-12-02,Mumbai,Maharashtra
+167,"1,000",Crime Incident,Police,2016-12-02,Greater,Noida
+173,"10,000",C Form,"Commercial Tax, Sales Tax, VAT",2016-12-02,Chennai,Tamil
+192,100,Others,Others,2016-12-02,Bangalore,Karnataka
+239,"2,500",Verification of property documents,Urban Development Authorities,2016-12-02,Coimbatore,Tamil
+241,"45,000",Assessment,Income Tax,2016-12-01,New,Delhi
+190,500,Bribing of Government Officers,Public Services,2016-12-01,Chennai,Tamil
+149,"1,500",Police Verification for Passport,Passport,2016-12-01,Gudivada,Andhra
+188,"3,000",Bribing of Government Officers,Public Services,2016-12-01,Uttara,Kannada
+204,"3,00,000",Property Tax,Revenue,2016-12-01,Ajmer,Rajasthan
+198,"5,000",Income Tax Refund,Income Tax,2016-11-30,Bangalore,Karnataka
+210,"5,000",Export Inspection,"Customs, Excise and Service Tax",2016-11-30,Mumbai,Maharashtra
+144,150,Contract Work,Public Sector Undertakings,2016-11-30,Chennai,Tamil
+175,"4,500",Driving licence Process,Transport,2016-11-29,Thiruvallur,Tamil
+109,500,Police Verification for Passport,Police,2016-11-29,Bangalore,Karnataka
+186,400,Fitness Certificate,Health and Family Welfare,2016-11-29,Visakhapatnam,Andhra
+138,650,Police Verification for Passport,Passport,2016-11-28,Bihar,Sharif
+121,50,Others,Others,2016-11-28,Bangalore,Karnataka
+155,"1,200",Employee Grievances,Labour,2016-11-28,Kailasahar,Tripura
+153,300,Reissue of Passport,Passport,2016-11-28,Mumbai,Maharashtra
+122,500,Others,Others,2016-11-28,Karwar,Karnataka
+120,500,Police Verification for Passport,Police,2016-11-27,Junagadh,Gujarat
+162,"1,000",Road Permit,"Commercial Tax, Sales Tax, VAT",2016-11-26,Etawah,Uttar
+196,200,Background Verification,Police,2016-11-26,Ghaziabad,Uttar
+138,200,False Allegations,Police,2016-11-26,Mumbai,Maharashtra
+109,"2,000",Police Verification for Passport,Police,2016-11-25,Bangalore,Karnataka
+129,"25,000",School or College Related Activities,Education,2016-11-25,Bangalore,Karnataka
+181,"1,200",New Domestic Driving License,Transport,2016-11-24,Bangalore,Karnataka
+171,"70,000",Contract Work,Public Sector Undertakings,2016-11-24,Sonbhadra,Uttar
+214,"10,00,000",For Seeking Relevant Information,Urban Development Authorities,2016-11-23,Bangalore,Karnataka
+197,"10,000",Subversion of Financial Norms,Banking,2016-11-23,Moradabad,Uttar
+192,"1,50,000",Subversion of norms,Public Sector Undertakings,2016-11-22,Sonbhadra,Uttar
+174,100,Provident Fund,Labour,2016-11-22,Tirupati,Andhra
+170,"1,600",Driving licence Process,Transport,2016-11-22,Bangalore,Karnataka
+146,"1,00,000",Others,Others,2016-11-22,Sonbhadra,Uttar
+133,"60,000",Others,Others,2016-11-21,Sonbhadra,Uttar
+174,700,,,2016-11-21,Visakhapatnam,Andhra
+117,200,False Allegations,Police,2016-11-21,Bangalore,Karnataka
+175,100,Traffic Violations,Police,2016-11-21,Vizianagaram,Andhra
+118,"1,000",Police Verification for Passport,Police,2016-11-21,Daman,Daman
+138,"10,000",Registration of Sale Deed,Stamps and Registration,2016-11-20,Bangalore,Karnataka
+152,"45,000",Shop Act License,Municipal Services,2016-11-20,Bangalore,Karnataka
+103,100,Traffic Violations,Police,2016-11-20,Bangalore,Karnataka
+138,"6,000",Property Tax,Municipal Services,2016-11-18,Kanchipuram,Tamil
+149,"10,00,000",PWD Officers,Public Works Department,2016-11-18,Lucknow,Uttar
+181,"2,000",Smartcard License,Transport,2016-11-18,Kolkata,West
+119,800,Police Verification for Passport,Police,2016-11-18,Mumbai,Maharashtra
+115,"1,000",Others,Others,2016-11-17,Bilaspur,Himachal
+184,"5,000",Survival Certificate,Revenue,2016-11-17,Sattenapalle,Andhra
+145,"4,000",Registration of Vehicle,Transport,2016-11-17,Namakkal,Tamil
+156,500,General RTO related,Transport,2016-11-16,Kalyan,Maharashtra
+140,"11,000",Registration of Property,Stamps and Registration,2016-11-15,Bangalore,Karnataka
+137,50,Registration of Vehicle,Transport,2016-11-15,Bidhan,Nagar
+157,800,Background Verification,Police,2016-11-15,New,Delhi
+156,"1,500",Traffic Violations,Police,2016-11-14,Gurgaon,Haryana
+187,"3,000",New Company or Business Registration,"Commercial Tax, Sales Tax, VAT",2016-11-14,Coimbatore,Tamil
+125,200,Marriage Registration,Stamps and Registration,2016-11-14,Bangalore,Karnataka
+152,200,Health Certificate,Health and Family Welfare,2016-11-14,Bangalore,Karnataka
+105,"3,000",Traffic Violations,Police,2016-11-14,Bangalore,Karnataka
+116,"5,000",Traffic Violations,Police,2016-11-14,Vizianagaram,Andhra
+121,"1,500",Assessment,"Commercial Tax, Sales Tax, VAT",2016-11-14,Bangalore,Karnataka
+115,150,Renewal of Domestic Driving License,Transport,2016-11-13,Bangalore,Karnataka
+775,100,Traffic Violations,Police,2016-11-13,Bangalore,Karnataka
+107,500,General RTO related,Transport,2016-11-12,Bagalkot,Karnataka
+159,"1,000",Police Verification for Passport,Police,2016-11-11,Ghaziabad,Uttar
+162,"2,000",Change of Name in Records,Electricity and Power Supply,2016-11-11,Mumbai,Maharashtra
+146,"2,000",Retrieval of lost items,Police,2016-11-09,Hyderabad,Telangana
+232,"30,000",Assessment,Income Tax,2016-11-09,Chennai,Tamil
+135,600,Driving licence Process,Transport,2016-11-09,Hyderabad,Telangana
+167,"2,000",Police Verification for Passport,Passport,2016-11-08,Gorakhpur,Uttar
+125,40,Others,Others,2016-11-08,Chennai,Tamil
+179,"28,000",IT scrutiny,Income Tax,2016-11-08,Bangalore,Karnataka
+190,"25,000",7/12 Extract,Revenue,2016-11-07,Bangalore,Karnataka
+160,300,Traffic Violations,Transport,2016-11-07,Jaipur,Rajasthan
+174,40,Others,Others,2016-11-06,Chennai,Tamil
+144,40,Others,Others,2016-11-06,Chennai,Tamil
+175,500,Excess Luggage,Railways,2016-11-06,New,Delhi
+222,"10,00,000",Favorable Judgement,Judiciary,2016-11-06,Mumbai,Maharashtra
+184,100,Traffic Violations,Police,2016-11-06,Noida,Uttar
+190,500,Passport Delivery,Passport,2016-11-06,Noida,Uttar
+114,200,Police Clearance Certificate,Police,2016-11-04,Bangalore,Karnataka
+163,"1,000",Non Availability Certificate,Municipal Services,2016-11-04,Ongole,Andhra
+182,"1,000",7/12 Extract,Revenue,2016-11-04,Ongole,Andhra
+157,50,Delivery of Letters and other Post,Post Office,2016-11-04,Udaipur,Rajasthan
+144,"40,000",7/12 Extract,Revenue,2016-11-04,Pune,Maharashtra
+167,100,Bribing of Government Officers,Public Services,2016-11-04,Mumbai,Maharashtra
+158,400,Birth Certificate,Municipal Services,2016-11-04,Faizabad,Uttar
+149,"4,000",,,2016-11-03,Pune,Maharashtra
+145,100,Others,Others,2016-11-03,Tiruppur,Tamil
+137,670,Marriage Registration,Stamps and Registration,2016-11-03,Bangalore,Karnataka
+164,500,Traffic Violations,Police,2016-11-02,Kanpur,Uttar
+285,15,Regular Supply of Water,Water and Sewage,2016-11-01,Hyderabad,Telangana
+186,500,TTE,Railways,2016-11-01,Bhubaneswar,Orissa
+182,500,Police Verification for Passport,Passport,2016-11-01,Sonipat,Haryana
+135,"1,000",Police Verification for Passport,Police,2016-11-01,Pune,Maharashtra
+167,"25,000",Business License Renewal,Municipal Services,2016-10-30,Dharmapuri,Tamil
+190,"5,00,000",Others,Others,2016-10-29,Anantapur,Andhra
+142,950,Others,Others,2016-10-29,Hyderabad,Telangana
+156,"5,000",Bill Payment,Electricity and Power Supply,2016-10-29,Bongaigaon,Assam
+175,"5,000",Employee Grievances,Electricity and Power Supply,2016-10-29,Bongaigaon,Assam
+155,200,Traffic Violations,Police,2016-10-28,Chennai,Tamil
+117,"1,000",Police Harassment,Police,2016-10-28,Bhagalpur,Bihar
+161,"20,00,000",PWD Officers,Public Works Department,2016-10-28,Koppal,Karnataka
+136,300,Police Verification for Passport,Police,2016-10-28,Pune,Maharashtra
+157,"20,000",Electrical Inspection,Electricity and Power Supply,2016-10-27,Aurangabad,Bihar
+133,"2,500",Traffic Violations,Police,2016-10-27,Agra,Uttar
+177,"1,000",Police Harassment,Police,2016-10-26,Noida,Uttar
+114,"1,10,500",Crime Incident,Police,2016-10-26,Amritsar,Punjab
+129,"1,800",House Tax,Municipal Services,2016-10-25,Bangalore,Karnataka
+156,"1,500",Admission to College,Education,2016-10-25,Mangalore,Karnataka
+154,50,Learners License,Transport,2016-10-25,Thiruvallur,Tamil
+143,"8,00,000",Police Investigation,Police,2016-10-23,New,Delhi
+168,"10,000",New Khata Certificate,Stamps and Registration,2016-10-23,Hubli,Karnataka
+180,"1,000",New Passport Application,Passport,2016-10-22,Jaipur,Rajasthan
+144,"1,009",Lost or Damaged Passport,Passport,2016-10-22,Jaisalmer,Rajasthan
+131,"1,000",Change of Name in Passport,Passport,2016-10-22,Jaisalmer,Rajasthan
+125,"1,000",ECNR Stamp,Passport,2016-10-22,Jaisalmer,Rajasthan
+127,"1,000",Passport Status Enquiry,Passport,2016-10-22,Jaisalmer,Rajasthan
+127,500,Others,Others,2016-10-22,Etawah,Uttar
+164,"20,000",Registration of Property,Stamps and Registration,2016-10-21,Bangalore,Karnataka
+119,500,Police Verification for Passport,Passport,2016-10-21,Unnao,Uttar
+114,300,Police Verification for Passport,Passport,2016-10-21,Roorkee,Uttarakhand
+128,"2,000",Police Verification for Passport,Passport,2016-10-20,Ongole,Andhra
+297,5,Adding Name to Ration Card,"Food, Civil Supplies and Consumer Affairs",2016-10-20,Kurnool,Andhra
+168,"4,500",PWD Officers,Public Works Department,2016-10-20,Guwahati,Assam
+150,600,Attendance,Education,2016-10-19,Adari,Uttar
+179,"10,000",Shop Act License,Labour,2016-10-17,Chennai,Tamil
+155,"10,000",Others,Others,2016-10-17,Hyderabad,Telangana
+189,"1,00,000",Services like Movement of Poles and Wires,Electricity and Power Supply,2016-10-17,Coimbatore,Tamil
+217,"32,000",Registration of Flat or Apartment,Urban Development Authorities,2016-10-17,Bangalore,Karnataka
+176,500,Traffic Violations,Police,2016-10-16,Gurgaon,Haryana
+160,"20,000",Arms License,Municipal Services,2016-10-15,Mumbai,Maharashtra
+150,"2,000",PAN Card Issues,Income Tax,2016-10-15,Hamirpur,Himachal
+148,500,Police Verification for Passport,Police,2016-10-14,Chennai,Tamil
+115,"1,000",Police Verification for Passport,Police,2016-10-14,Bangalore,Karnataka
+137,100,Others,Others,2016-10-14,Bangalore,Karnataka
+115,"5,000",Police Harassment,Police,2016-10-13,Jabalpur,Madhya
+115,400,Police Verification for Passport,Police,2016-10-13,Jamnagar,Gujarat
+147,"1,00,000",Contract Work,Public Sector Undertakings,2016-10-13,Sonbhadra,Uttar
+170,200,Vehicle Registration Extract,Transport,2016-10-12,Mumbai,Maharashtra
+139,"60,000",Building Plan Approval,Municipal Services,2016-10-12,Chennai,Tamil
+106,500,Police Harassment,Police,2016-10-12,Jalandhar,Punjab
+165,50,Check Post,Forest,2016-10-10,Udumalaipettai,Tamil
+157,300,Traffic Violations,Police,2016-10-09,Chennai,Tamil
+170,"12,000",Incorrect Bill,"Commercial Tax, Sales Tax, VAT",2016-10-08,North,Lakhimpur
+184,"5,000",VAT Registration,"Commercial Tax, Sales Tax, VAT",2016-10-07,Bangalore,Karnataka
+105,500,Police Verification for Passport,Police,2016-10-07,Bangalore,Karnataka
+139,200,Assessment,"Commercial Tax, Sales Tax, VAT",2016-10-07,Baghpat,Uttar
+167,"3,500",Police Verification for Passport,Passport,2016-10-06,Barasat,West
+156,100,Traffic Violations,Transport,2016-10-06,Mumbai,Maharashtra
+160,"1,500",Police Verification for Passport,Passport,2016-10-05,Kakinada,Andhra
+203,100,Aadhaar Card Process,Municipal Services,2016-10-05,Visakhapatnam,Andhra
+175,"3,00,000",Police Investigation,Police,2016-10-04,Surat,Gujarat
+156,600,NOC for Transfer of Vehicle Registration,Transport,2016-10-04,Pune,Maharashtra
+158,"40,000",Electrical Inspection,Electricity and Power Supply,2016-10-03,Aurangabad,Bihar
+859,500,Traffic Violations,Police,2016-10-03,Bangalore,Karnataka
+128,800,Police Verification for Passport,Passport,2016-10-03,Bhilai,Chhattisgarh
+164,"50,000",Electrical Inspection,Electricity and Power Supply,2016-10-02,Aurangabad,Bihar
+140,"50,000",Electrical Inspection,Electricity and Power Supply,2016-10-02,Aurangabad,Maharashtra
+203,200,Others,Others,2016-10-01,Pune,Maharashtra
+110,300,False Allegations,Police,2016-09-29,Bangalore,Karnataka
+175,30,Others,Others,2016-09-28,New,Delhi
+165,30,Others,Others,2016-09-28,New,Delhi
+184,"10,000",Services like Movement of Poles and Wires,Electricity and Power Supply,2016-09-28,Anantapur,Andhra
+139,400,Traffic Violations,Transport,2016-09-27,Bangalore,Karnataka
+134,10,Others,Others,2016-09-27,Bangalore,Karnataka
+182,"65,000",Others,Others,2016-09-27,Anantapur,Andhra
+148,470,Traffic Violations,Police,2016-09-27,Chennai,Tamil
+158,300,Police Verification for Passport,Passport,2016-09-26,Indore,Madhya
+165,200,Entry Tax,"Commercial Tax, Sales Tax, VAT",2016-09-26,Palakkad,Kerala
+120,800,Police Verification for Passport,Police,2016-09-25,Bangalore,Karnataka
+138,500,Police Verification for Passport,Passport,2016-09-24,Chittoor,Andhra
+236,400,Railway Police,Railways,2016-09-24,Navi,Mumbai
+166,"16,00,000",Admission to College,Education,2016-09-24,Durgapur,West
+104,"7,000",Police Harassment,Police,2016-09-24,Krishnanagar,West
+121,500,Police Verification for Passport,Passport,2016-09-24,Bangalore,Karnataka
+110,"7,000",Police Harassment,Police,2016-09-24,Krishnanagar,West
+185,400,Marriage Registration,Stamps and Registration,2016-09-23,Purulia,West
+127,"15,000",Police Harassment,Police,2016-09-23,Patna,Bihar
+160,"2,500",Police Verification for Passport,Passport,2016-09-22,Hyderabad,Telangana
+101,500,Police Verification for Passport,Police,2016-09-21,Bangalore,Karnataka
+120,"8,500",Others,Others,2016-09-21,Bangalore,Karnataka
+174,"1,200",Driving licence Process,Transport,2016-09-21,Mysore,Karnataka
+190,"10,000",Food Safety Licence,Food and Drug Administration,2016-09-21,Bangalore,Karnataka
+187,100,Aadhaar Card Process,Municipal Services,2016-09-21,Pune,Maharashtra
+154,300,Driving licence Process,Transport,2016-09-21,Bangalore,Karnataka
+968,200,NOC for Transfer of Vehicle Registration,Police,2016-09-21,Bangalore,Karnataka
+184,"5,00,000",Contract Work,Public Sector Undertakings,2016-09-20,Ghaziabad,Uttar
+146,300,Filing FIR,Police,2016-09-20,Pune,Maharashtra
+159,"1,000",SSA Related,Social Welfare,2016-09-19,Dhaulpur,Rajasthan
+128,300,Police Verification for Passport,Police,2016-09-19,Chennai,Tamil
+201,"1,000",Platform ticket,Railways,2016-09-19,New,Delhi
+251,"4,00,000",7/12 Extract,Revenue,2016-09-18,Vijayawada,Andhra
+176,"4,500",Admission to College,Education,2016-09-17,Indore,Madhya
+119,"10,00,000",Lodging Police Complaint,Police,2016-09-16,Chittoor,Andhra
+202,"1,000",Airport facilities,Airports,2016-09-16,Abhayapuri,Assam
+147,"2,000",Marriage Registration,Stamps and Registration,2016-09-16,Bangalore,Karnataka
+203,200,Police Verification for Passport,Police,2016-09-16,Ahmedabad,Gujarat
+149,"40,000",Property Tax,Revenue,2016-09-16,Bangalore,Karnataka
+172,"15,000",Registration of House,Stamps and Registration,2016-09-15,Secunderabad,Telangana
+205,"80,000",General RTO related,Transport,2016-09-14,Jaipur,Rajasthan
+217,"1,000",Police Verification for Passport,Passport,2016-09-14,Kanpur,Uttar
+145,500,Police Verification for Passport,Police,2016-09-14,Aurangabad,Bihar
+134,200,Encumbrance Certificate,Stamps and Registration,2016-09-14,Bangalore,Karnataka
+144,"1,000",Traffic Violations,Police,2016-09-12,Chennai,Tamil
+249,"1,50,000",Service Tax Return,"Customs, Excise and Service Tax",2016-09-11,New,Delhi
+152,"1,000",Police Clearance Certificate,Passport,2016-09-11,Basti,Uttar
+126,500,Marriage Certificate,Stamps and Registration,2016-09-11,Bangalore,Karnataka
+185,600,Traffic Violations,Police,2016-09-10,New,Delhi
+172,"3,06,000",Sales Tax Payment,"Commercial Tax, Sales Tax, VAT",2016-09-09,Palakkad,Kerala
+205,"3,500",Temporary Connection,Electricity and Power Supply,2016-09-09,Coimbatore,Tamil
+196,"1,80,000",Building Plan Approval,Municipal Services,2016-09-09,Hubli,Karnataka
+180,"70,000",Recruitment,Education,2016-09-08,Sitapur,Uttar
+241,30,Regular Supply of Water,Water and Sewage,2016-09-05,Bangalore,Karnataka
+169,"2,000",Encumbrance Certificate,Stamps and Registration,2016-09-05,Bangalore,Karnataka
+184,"1,200",Change of Name in Records,Electricity and Power Supply,2016-09-05,Hyderabad,Telangana
+227,"5,00,000",Building Construction Approval,Municipal Services,2016-09-04,New,Delhi
+246,"1,000",Police Verification for Passport,Passport,2016-09-01,Lucknow,Uttar
+163,100,Others,Others,2016-09-01,Bangalore,Karnataka
+197,"1,000",New International Driving License,Transport,2016-09-01,Chennai,Tamil
+188,"35,000",Police Harassment,Police,2016-09-01,Nanded,Maharashtra
+167,300,Police Verification for Passport,Passport,2016-08-31,Sambhal,Uttar
+207,"21,000",Property Tax,Revenue,2016-08-31,Faridabad,Haryana
+218,"5,455",Birth Certificate,Municipal Services,2016-08-31,Abhayapuri,Assam
+174,"1,200",Birth Certificate,Municipal Services,2016-08-30,Achhnera,Uttar
+179,123,C Form,"Commercial Tax, Sales Tax, VAT",2016-08-30,Achhnera,Uttar
+146,"80,000",Birth Certificate,Municipal Services,2016-08-30,Adoni,Andhra
+141,"3,000",Registration of Vehicle,Transport,2016-08-30,Ratlam,Madhya
+151,656,Birth Certificate,Municipal Services,2016-08-30,Salem,Tamil
+116,450,Voter ID Card,Municipal Services,2016-08-30,Chennai,Tamil
+101,30,Birth Certificate,Municipal Services,2016-08-30,Arambagh,West
+116,"8,76,873",Voter ID Card,Municipal Services,2016-08-30,Amadalavalasa,Andhra
+989,"15,00,000",Voter ID Card,Municipal Services,2016-08-30,Asansol,West
+203,200,Issue of Ration Card,"Food, Civil Supplies and Consumer Affairs",2016-08-30,Jalandhar,Punjab
+104,"11,233",Others,Others,2016-08-30,Lalganj,Uttar
+174,100,Birth Certificate,Municipal Services,2016-08-30,Abhayapuri,Assam
+200,500,Police Verification for Passport,Passport,2016-08-30,Kolkata,West
+197,288,Filing FIR,Police,2016-08-30,Abohar,Punjab
+124,3,Birth Certificate,Municipal Services,2016-08-30,Faizabad,Uttar
+131,100,Voter ID Card,Municipal Services,2016-08-30,New,Delhi
+175,15,Marriage Certificate,Stamps and Registration,2016-08-30,Abhayapuri,Assam
+109,45,Birth Certificate,Municipal Services,2016-08-30,Indore,Madhya
+169,"8,000",Subversion of Financial Norms,Banking,2016-08-30,Adilabad,Telangana
+100,10,Birth Certificate,Municipal Services,2016-08-30,Meerut,Uttar
+118,"1,000",Police Verification for Passport,Passport,2016-08-30,Bangalore,Karnataka
+103,"30,000",Others,Others,2016-08-29,Bangalore,Karnataka
+221,"1,000",Police Harassment,Police,2016-08-28,Kolkata,West
+192,1,Admission to School,Education,2016-08-27,Jaipur,Rajasthan
+151,"50,000",Electrical Inspection,Electricity and Power Supply,2016-08-26,Vizianagaram,Andhra
+153,300,Change of Address in Driving License,Transport,2016-08-26,Karaikudi,Tamil
+110,500,Police Verification for Passport,Police,2016-08-26,Karaikudi,Tamil
+201,"1,000",Airport facilities,Airports,2016-08-25,Abhayapuri,Assam
+134,"10,000",Khata Transfer,Municipal Services,2016-08-25,Bangalore,Karnataka
+156,500,Police Verification for Passport,Police,2016-08-23,Nanded,Maharashtra
+164,500,Marriage Certificate,Stamps and Registration,2016-08-23,Bangalore,Karnataka
+127,"1,000",Police Verification for Passport,Passport,2016-08-23,Supaul,Bihar
+166,"1,500",Police Verification for Passport,Passport,2016-08-23,Azamgarh,Uttar
+117,300,Traffic Violations,Police,2016-08-23,Bangalore,Karnataka
+192,"1,00,000",Filing Taxes,Income Tax,2016-08-22,Hyderabad,Telangana
+102,"1,250",Others,Others,2016-08-22,Bangalore,Karnataka
+191,100,Transport of Goods,Railways,2016-08-21,New,Delhi
+115,"1,000",Others,Others,2016-08-21,Belgaum,Karnataka
+173,100,Loan Sanctioning,Banking,2016-08-21,Achhnera,Uttar
+113,"12,000",Others,Others,2016-08-21,Bagalkot,Karnataka
+157,100,Others,Others,2016-08-20,Mumbai,Maharashtra
+137,500,False Allegations,Police,2016-08-18,Pune,Maharashtra
+176,"3,500",New International Driving License,Transport,2016-08-17,Tiruppur,Tamil
+147,300,Traffic Violations,Police,2016-08-17,Bangalore,Karnataka
+164,700,Traffic Violations,Police,2016-08-17,Hyderabad,Telangana
+134,"5,000",Police Verification for Passport,Passport,2016-08-17,Rajampet,Andhra
+163,"5,000",Khata Transfer,Stamps and Registration,2016-08-17,Bangalore,Karnataka
+202,"5,000",Pension Processing,Pension,2016-08-16,New,Delhi
+140,100,Others,Others,2016-08-16,Thanjavur,Tamil
+151,300,Traffic Violations,Transport,2016-08-16,Hyderabad,Telangana
+144,500,Registration of Flat or Apartment,Stamps and Registration,2016-08-15,Bangalore,Karnataka
+145,"3,000",Police Verification for Passport,Police,2016-08-12,Bangalore,Karnataka
+203,560,RTI Application,Public Services,2016-08-12,Ghaziabad,Uttar
+185,200,Bribing of Government Officers,Public Services,2016-08-12,Moga,Punjab
+224,100,Assessment,Urban Development Authorities,2016-08-11,Bangalore,Karnataka
+164,200,Police Verification for Passport,Police,2016-08-11,Kodagu,Karnataka
+140,100,Police Verification for Passport,Police,2016-08-11,Bangalore,Karnataka
+129,100,False Allegations,Police,2016-08-11,Bangalore,Karnataka
+155,"2,000",Traffic Violations,Police,2016-08-11,Mumbai,Maharashtra
+139,"15,000",Khata Transfer,Stamps and Registration,2016-08-10,Bangalore,Karnataka
+163,"1,000",Shop Establishment License,Municipal Services,2016-08-10,Mumbai,Maharashtra
+207,30,Gas Cylinder Supply,"Food, Civil Supplies and Consumer Affairs",2016-08-10,Hyderabad,Telangana
+144,"3,500",Motor Vehicle Inspection,Transport,2016-08-10,Bangalore,Karnataka
+187,700,Duplicate PAN Card,Income Tax,2016-08-09,Bangalore,Karnataka
+205,"1,000",Pension Processing,Pension,2016-08-09,Kolkata,West
+194,"2,00,000",Verification of property documents,Urban Development Authorities,2016-08-09,Bangalore,Karnataka
+104,"1,000",Activities on Beat,Police,2016-08-08,Bangalore,Karnataka
+124,60,Autorickshaws,Transport,2016-08-08,Bangalore,Karnataka
+184,400,Police Verification for Passport,Police,2016-08-07,Thane,Maharashtra
+182,"2,000",Transfer Certificate,Education,2016-08-07,Madurai,Tamil
+198,"25,000",Loan Sanctioning,Banking,2016-08-07,Navi,Mumbai
+202,"1,200",Customs,Airports,2016-08-07,New,Delhi
+235,"10,000",Transfer of Residence (TR),"Customs, Excise and Service Tax",2016-08-07,Abohar,Punjab
+134,500,Traffic Violations,Police,2016-08-07,Chennai,Tamil
+117,300,Police Verification for Passport,Police,2016-08-06,Navsari,Gujarat
+149,"35,000",Housing Plan Approval,Municipal Services,2016-08-06,Hyderabad,Telangana
+181,"1,50,000",Vehicle Registration Extract,Transport,2016-08-05,Madurai,Tamil
+973,500,Background Verification,Police,2016-08-05,Bangalore,Karnataka
+167,100,Medical Certificate,Health and Family Welfare,2016-08-05,Bangalore,Karnataka
+162,110,Others,Others,2016-08-05,Bangalore,Karnataka
+164,"1,000",Sales Tax Registration,"Commercial Tax, Sales Tax, VAT",2016-08-04,SAS,Nagar
+200,300,Police Verification for Passport,Passport,2016-08-03,Pune,Maharashtra
+180,400,Others,Others,2016-08-03,Ahmedabad,Gujarat
+155,"4,000",Assessment,"Commercial Tax, Sales Tax, VAT",2016-08-03,Tezpur,Assam
+136,800,Police Verification for Passport,Police,2016-08-02,Munger,Bihar
+152,"5,000",New Company or Business Registration,"Commercial Tax, Sales Tax, VAT",2016-08-01,Bangalore,Karnataka
+227,"50,000",Water Connection under Sajala,Water and Sewage,2016-07-31,Bangalore,Karnataka
+175,"40,000",Trade License,Municipal Services,2016-07-31,Nanded,Maharashtra
+166,200,Registration of Sale Deed,Stamps and Registration,2016-07-30,Bhavnagar,Gujarat
+142,500,Registration of Sale Deed,Stamps and Registration,2016-07-29,Bangalore,Karnataka
+156,"30,000",New Connection for Houses,Electricity and Power Supply,2016-07-29,Bangalore,Karnataka
+138,"5,000",Registration of Land,Municipal Services,2016-07-28,Bangalore,Karnataka
+207,100,Medical Certificate,Health and Family Welfare,2016-07-27,Mahoba,Uttar
+204,100,Bill Payment,Electricity and Power Supply,2016-07-27,Hyderabad,Telangana
+183,200,Traffic Violations,Police,2016-07-27,Mumbai,Maharashtra
+140,"1,000",Birth Certificate,Municipal Services,2016-07-26,Bangalore,Karnataka
+170,"52,000",Building Plan Approval,Municipal Services,2016-07-26,Nanded,Maharashtra
+136,"3,000",Traffic Violations,Police,2016-07-25,Sathyamangalam,Tamil
+137,500,Marriage Certificate,Stamps and Registration,2016-07-25,Bangalore,Karnataka
+179,300,Traffic Violations,Police,2016-07-23,Bangalore,Karnataka
+160,"2,000",Registration of Mortgage Deed,Stamps and Registration,2016-07-23,Chilakaluripet,Andhra
+175,100,Others,Others,2016-07-23,New,Delhi
+137,"1,100",Police Verification for Passport,Police,2016-07-22,Jhajha,Bihar
+204,"10,00,000",Land or Building Survey,Municipal Services,2016-07-21,Nanded,Maharashtra
+234,"2,000",Medical Certificate,Health and Family Welfare,2016-07-21,Warangal,Telangana
+234,"15,000",Immigration Check,Bureau of Immigration,2016-07-20,Mumbai,Maharashtra
+153,"2,00,000",Others,Others,2016-07-20,Bangalore,Karnataka
+173,"1,500",Change of Name in Records,Electricity and Power Supply,2016-07-20,Bangalore,Karnataka
+114,500,Police Verification for Passport,Police,2016-07-19,Bangalore,Karnataka
+128,"25,000",Building Plan Approval,Municipal Services,2016-07-18,Bangalore,Karnataka
+102,200,Traffic Violations,Police,2016-07-18,Bangalore,Karnataka
+137,"2,000",Retrieval of lost items,Police,2016-07-16,Korba,Chhattisgarh
+160,"68,000",Medical Professional,Health and Family Welfare,2016-07-16,Nanded,Maharashtra
+157,"75,000",Police Harassment,Police,2016-07-16,Nanded,Maharashtra
+255,"15,000",Railway Police,Railways,2016-07-15,Ahmedabad,Gujarat
+156,800,Traffic Violations,Police,2016-07-15,Jaipur,Rajasthan
+168,"1,500",Marriage Certificate,Stamps and Registration,2016-07-15,Kavali,Andhra
+206,"20,000",Road Permit,"Commercial Tax, Sales Tax, VAT",2016-07-14,Ghaziabad,Uttar
+204,"15,000",Inspection of Office or Factories,Labour,2016-07-14,Bangalore,Karnataka
+167,"10,000",House Tax,Municipal Services,2016-07-13,Chennai,Tamil
+233,500,Police Verification for Passport,Passport,2016-07-13,Nellore,Andhra
+192,"2,500",Others,Others,2016-07-12,Jaipur,Rajasthan
+130,500,Police Verification for Passport,Police,2016-07-11,Howrah,West
+302,500,Police Verification for Passport,Passport,2016-07-10,Kolkata,West
+195,"15,000",Bribing of Government Officers,Public Services,2016-07-10,Ratnagiri,Maharashtra
+169,"4,000",False Allegations,Police,2016-07-09,Pune,Maharashtra
+238,2,Food Supply,"Food, Civil Supplies and Consumer Affairs",2016-07-08,Bangalore,Karnataka
+179,"5,000",Change of Tariff in Domestic to Commercial,Electricity and Power Supply,2016-07-08,Vellore,Tamil
+216,200,Police Clearance Certificate,Passport,2016-07-07,Bangalore,Karnataka
+211,300,TTE,Railways,2016-07-05,Nanded,Maharashtra
+230,"1,000",TTE,Railways,2016-07-05,Ahmedabad,Gujarat
+174,400,Marriage Certificate,Stamps and Registration,2016-07-05,Macherla,Andhra
+236,500,Temporary Vehicle Permit,Transport,2016-07-04,Pune,Maharashtra
+200,600,Ticket Booking,Railways,2016-07-02,New,Delhi
+200,350,Residence Certificate,Revenue,2016-07-02,Bareilly,Uttar
+193,500,Police Verification for Passport,Police,2016-07-02,Ghaziabad,Uttar
+204,"1,500",New Passport Application,Passport,2016-07-01,Bhubaneswar,Orissa
+238,"4,000",Smartcard License,Transport,2016-06-30,Vadodara,Gujarat
+342,"10,000",Police Harassment,Police,2016-06-29,Bhubaneswar,Orissa
+189,600,Traffic Violations,Police,2016-06-29,Mumbai,Maharashtra
+219,200,Traffic Violations,Police,2016-06-28,New,Delhi
+239,"50,000",Food Safety Licence,Food and Drug Administration,2016-06-27,Bangalore,Karnataka
+191,"10,000",Sales Tax Registration,"Commercial Tax, Sales Tax, VAT",2016-06-27,Bangalore,Karnataka
+171,"1,500",False Allegations,Police,2016-06-27,Pondicherry,Pondicherry
+177,"40,000",Building Plan Approval,Municipal Services,2016-06-27,Nanded,Maharashtra
+179,"30,000",Transferring Name for Inherited Property,Municipal Services,2016-06-26,Nanded,Maharashtra
+181,200,Community Certificate,Municipal Services,2016-06-26,Visakhapatnam,Andhra
+189,50,Others,Others,2016-06-26,Nellore,Andhra
+314,"7,000",Customs Check and Clearance,"Customs, Excise and Service Tax",2016-06-25,Pondicherry,Pondicherry
+198,"10,000",New Company or Business Registration,"Commercial Tax, Sales Tax, VAT",2016-06-25,Pondicherry,Pondicherry
+276,200,Traffic Violations,Police,2016-06-25,Chennai,Tamil
+155,"5,000",Birth Certificate,Municipal Services,2016-06-25,Chennai,Tamil
+187,"1,50,000",Loan Sanctioning,Banking,2016-06-24,New,Delhi
+209,"72,000",New Connection,Water and Sewage,2016-06-24,New,Delhi
+146,500,Others,Others,2016-06-24,Kolhapur,Maharashtra
+136,"1,400",Background Verification,Police,2016-06-24,Kolhapur,Maharashtra
+181,300,Seat Reservation,Railways,2016-06-24,Solapur,Maharashtra
+194,"2,000",Restore Power Supply,Electricity and Power Supply,2016-06-24,Hyderabad,Telangana
+212,"30,000",Others,Others,2016-06-23,Tumkur,Karnataka
+188,"1,000",Duplicate Registration Certificate,Transport,2016-06-23,Ghaziabad,Uttar
+127,300,Filing FIR,Police,2016-06-23,Bangalore,Karnataka
+147,50,Temporary Vehicle Permit,Transport,2016-06-22,Ghaziabad,Uttar
+157,"8,000",Lease Registration,Stamps and Registration,2016-06-22,Mumbai,Maharashtra
+146,200,Police Investigation,Police,2016-06-22,Udumalaipettai,Tamil
+125,150,Police Protection,Police,2016-06-21,Bangalore,Karnataka
+147,"5,000",Assessment,"Commercial Tax, Sales Tax, VAT",2016-06-21,Chennai,Tamil
+131,500,,,2016-06-20,Chennai,Tamil
+186,95,Transport of Goods,Railways,2016-06-19,New,Delhi
+356,"1,00,000",Food License,Food and Drug Administration,2016-06-18,Noida,Uttar
+180,"22,000",False Allegations,Police,2016-06-17,New,Delhi
+252,"2,000",Driving licence Process,Transport,2016-06-16,Navi,Mumbai
+267,"1,000",Airport facilities,Airports,2016-06-15,Mumbai,Maharashtra
+204,500,Police Verification for Passport,Police,2016-06-14,Pune,Maharashtra
+197,"2,500",Registration of Vehicle,Transport,2016-06-14,Pune,Maharashtra
+231,"2,700",Vehicle Transport Booking,Railways,2016-06-14,Pune,Maharashtra
+211,30,Platform ticket,Railways,2016-06-13,Pune,Maharashtra
+205,"2,000",Traffic Violations,Police,2016-06-13,Hyderabad,Telangana
+188,"25,500",Police Harassment,Police,2016-06-13,Bangalore,Karnataka
+219,500,Police Verification for Passport,Passport,2016-06-12,Bangalore,Karnataka
+240,"1,300",Marriage Registration,Stamps and Registration,2016-06-12,Noida,Uttar
+227,264,Gas Cylinder Supply,"Food, Civil Supplies and Consumer Affairs",2016-06-11,Bangalore,Karnataka
+210,70,Speed Post,Post Office,2016-06-10,Tirupati,Andhra
+186,"10,000",Registration of Vehicle,Transport,2016-06-10,Hyderabad,Telangana
+178,"1,500",Police Verification for Passport,Passport,2016-06-09,Hyderabad,Telangana
+196,900,Marriage Registration,Stamps and Registration,2016-06-09,Bangalore,Karnataka
+166,900,Background or Personal Verification,Police,2016-06-09,Pune,Maharashtra
+177,"5,000",Others,Others,2016-06-09,Mumbai,Maharashtra
+188,"1,000",Survival Certificate,Revenue,2016-06-09,Bangalore,Karnataka
+166,500,Others,Others,2016-06-08,Mumbai,Maharashtra
+214,"10,000",Service Tax Registration,"Customs, Excise and Service Tax",2016-06-08,Mumbai,Maharashtra
+151,500,Traffic Violations,Transport,2016-06-08,Chennai,Tamil
+160,"1,000",Traffic Violations,Police,2016-06-08,New,Delhi
+172,"5,000",Pension Processing,Education,2016-06-08,Tura,Meghalaya
+183,"2,000",Nativity Certificate,Revenue,2016-06-06,Panruti,Tamil
+155,"2,000",Marriage Certificate,Stamps and Registration,2016-06-06,Tanuku,Andhra
+185,100,Berth Allocation,Railways,2016-06-06,Mumbai,Maharashtra
+208,100,Traffic Violations,Transport,2016-06-06,Ahmedabad,Gujarat
+177,"5,000",Others,Others,2016-06-06,Trivandrum,Kerala
+173,100,General RTO related,Transport,2016-06-05,Hyderabad,Telangana
+233,"1,000",Shop Act License,Labour,2016-06-05,Bangalore,Karnataka
+180,350,Learners License,Transport,2016-06-04,Bangalore,Karnataka
+231,"2,000",C Form,"Commercial Tax, Sales Tax, VAT",2016-06-04,Abhayapuri,Assam
+194,"2,00,000",Admission to School,Education,2016-06-04,Korba,Chhattisgarh
+248,"2,500",Birth Certificate,Municipal Services,2016-06-04,Ahmedabad,Gujarat
+176,"1,000",VAT Registration,"Commercial Tax, Sales Tax, VAT",2016-06-02,Calicut,Kerala
+184,"1,000",Retrieval of lost items,Police,2016-06-02,Mumbai,Maharashtra
+207,"4,000",Transfer PF to New Employer,Labour,2016-06-02,Chennai,Tamil
+207,"5,000",Registration of Flat or Apartment,Urban Development Authorities,2016-06-01,Bangalore,Karnataka
+146,"9,000",Crime Incident,Police,2016-06-01,Bangalore,Karnataka
+172,"1,000",Marriage Registration,Stamps and Registration,2016-05-31,Miryalaguda,Telangana
+148,300,Others,Others,2016-05-31,Bangalore,Karnataka
+174,100,Police Clearance Certificate,Police,2016-05-31,Chittoor,Andhra
+247,"10,00,000",NOC,Forest,2016-05-31,Guwahati,Assam
+144,"1,000",Marriage Certificate,Stamps and Registration,2016-05-30,Bangalore,Karnataka
+221,"1,700",Police Verification for Passport,Passport,2016-05-28,Azamgarh,Uttar
+208,"20,000",Birth Certificate,Municipal Services,2016-05-28,Jodhpur,Rajasthan
+143,"1,111",Others,Others,2016-05-28,Punjaipugalur,Tamil
+156,1,Marriage Certificate,Stamps and Registration,2016-05-28,New,Delhi
+191,"2,000",New Domestic Driving License,Transport,2016-05-28,Warangal,Telangana
+170,250,Contract Work,Public Sector Undertakings,2016-05-28,Bangalore,Karnataka
+639,"10,000",Transfer of Vehicle Registration,Transport,2016-05-27,Bangalore,Karnataka
+192,54,Birth Certificate,Municipal Services,2016-05-27,Abohar,Punjab
+170,"99,000",Others,Others,2016-05-27,Coimbatore,Tamil
+146,300,Traffic Violations,Police,2016-05-27,Kolar,Karnataka
+137,10,Others,Others,2016-05-27,Indore,Madhya
+177,"1,000",Change of Name in Records,Electricity and Power Supply,2016-05-27,Coimbatore,Tamil
+160,25,C Form,"Commercial Tax, Sales Tax, VAT",2016-05-27,Bhiwandi,Madhya
+121,10,Others,Others,2016-05-27,New,Delhi
+166,"12,542",Police Verification for Passport,Passport,2016-05-27,Gulbarga,Karnataka
+168,100,Birth Certificate,Municipal Services,2016-05-27,Abhayapuri,Assam
+180,700,Police Verification for Passport,Passport,2016-05-27,Trivandrum,Kerala
+189,55,New Domestic Driving License,Transport,2016-05-26,Abohar,Punjab
+194,100,New PAN Card,Income Tax,2016-05-26,Islampur,West
+161,344,Birth Certificate,Municipal Services,2016-05-26,Abohar,Punjab
+142,"2,000",New Passport Application,Passport,2016-05-26,Jaunpur,Uttar
+124,"2,000",Registration of Vehicle,Transport,2016-05-26,Jaunpur,Uttar
+173,"2,000",Issue of Ration Card,"Food, Civil Supplies and Consumer Affairs",2016-05-26,Ambikapur,Chhattisgarh
+154,20,Police Verification for Passport,Police,2016-05-26,Achhnera,Uttar
+146,100,C Form,"Commercial Tax, Sales Tax, VAT",2016-05-26,Ganganagar,Rajasthan
+146,234,Birth Certificate,Municipal Services,2016-05-26,Ahmedabad,Gujarat
+935,11,Birth Certificate,Municipal Services,2016-05-26,Hindupur,Andhra
+167,"20,000",Bribing of Government Officers,Public Services,2016-05-26,Mumbai,Maharashtra
+110,400,Registration of Vehicle,Transport,2016-05-26,Bardhaman,West
+120,300,Others,Others,2016-05-26,Bangalore,Karnataka
+115,200,Police Verification for Passport,Police,2016-05-25,Bangalore,Karnataka
+161,"2,600",Transfer of Vehicle Registration,Transport,2016-05-24,Bangalore,Karnataka
+144,100,Lodging Police Complaint,Police,2016-05-24,Pune,Maharashtra
+117,"1,500",False Allegations,Police,2016-05-24,Dausa,Rajasthan
+198,"15,000",Procuring Medical Equipment/Medicines,Health and Family Welfare,2016-05-24,Mysore,Karnataka
+237,"2,000",Registration of Partition Deed,Urban Development Authorities,2016-05-23,Jaipur,Rajasthan
+175,"2,500",Medical Treatment,Health and Family Welfare,2016-05-23,Bangalore,Karnataka
+146,250,Marriage Certificate,Stamps and Registration,2016-05-22,Bangalore,Karnataka
+156,150,Traffic Violations,Police,2016-05-21,Mumbai,Maharashtra
+180,"2,000",Caste Certificate,Revenue,2016-05-20,Bangalore,Karnataka
+163,"2,000",Family Certificate,Municipal Services,2016-05-20,Gandhidham,Gujarat
+156,200,Police Harassment,Police,2016-05-19,Bangalore,Karnataka
+236,300,New internet connection,Telecom Services,2016-05-19,Lucknow,Uttar
+212,300,New internet connection,Telecom Services,2016-05-19,Lucknow,Uttar
+248,500,Customs Check and Clearance,"Customs, Excise and Service Tax",2016-05-18,Adari,Uttar
+143,120,Birth Certificate,Municipal Services,2016-05-18,Aluva,Kerala
+231,"2,000",Customs Check and Clearance,"Customs, Excise and Service Tax",2016-05-17,Abohar,Punjab
+202,12,Autorickshaws,Transport,2016-05-17,Thane,Maharashtra
+183,500,Additional power for High Tension installations,Electricity and Power Supply,2016-05-17,Ahmedabad,Gujarat
+167,"1,000",Police Verification for Passport,Police,2016-05-17,Chilakaluripet,Andhra
+186,100,Repair of Telephone or Internet Connection,Telecom Services,2016-05-16,Agra,Uttar
+155,"1,000",Police Harassment,Police,2016-05-16,New,Delhi
+130,105,Police Verification for Passport,Police,2016-05-16,Bangalore,Karnataka
+227,"4,000",Immigration Check,Airports,2016-05-16,Mumbai,Maharashtra
+167,"6,500",New Domestic Driving License,Transport,2016-05-15,Hyderabad,Telangana
+199,"2,00,000",Customs,Airports,2016-05-15,Mumbai,Maharashtra
+141,500,Police Harassment,Police,2016-05-14,Bangalore,Karnataka
+145,700,Traffic Violations,Police,2016-05-14,Pune,Maharashtra
+207,"2,000",Police Verification for Passport,Passport,2016-05-13,Noida,Uttar
+178,600,Marriage Registration,Stamps and Registration,2016-05-13,Tirunelveli,Tamil
+158,700,Traffic Violations,Police,2016-05-13,Visakhapatnam,Andhra
+188,300,Traffic Violations,Transport,2016-05-13,New,Delhi
+145,600,Birth Certificate,Municipal Services,2016-05-13,Karauli,Rajasthan
+236,"3,000",Registration of Flat or Apartment,Stamps and Registration,2016-05-12,Bangalore,Karnataka
+187,500,Marriage Registration,Stamps and Registration,2016-05-12,Bangalore,Karnataka
+164,"1,000",Driving licence Process,Transport,2016-05-11,New,Delhi
+155,"1,700",Marriage Registration,Stamps and Registration,2016-05-11,Bangalore,Karnataka
+205,300,Fitness Certificate for Vehicles,Transport,2016-05-10,Navi,Mumbai
+165,"1,000",Police Harassment,Police,2016-05-09,Bangalore,Karnataka
+217,"1,100",Renewal of Passport,Passport,2016-05-08,Ghaziabad,Uttar
+199,"30,000",Others,Others,2016-05-07,Bangalore,Karnataka
+256,"8,000",Unfair Legal Proceedings,Judiciary,2016-05-07,Bangalore,Karnataka
+213,"5,000",PWD Officers,Public Works Department,2016-05-07,Mandya,Karnataka
+248,"8,000",Unfair Legal Proceedings,Judiciary,2016-05-07,Bangalore,Karnataka
+196,1,New Connection for Houses,Electricity and Power Supply,2016-05-06,Nanded,Maharashtra
+174,"8,000",Transformer Maintenance,Electricity and Power Supply,2016-05-06,Bangalore,Karnataka
+156,200,General RTO related,Transport,2016-05-06,Mumbai,Maharashtra
+156,200,Traffic Violations,Police,2016-05-05,Pune,Maharashtra
+152,400,Traffic Violations,Police,2016-05-05,Hyderabad,Telangana
+139,"60,000",,,2016-05-05,Chennai,Tamil
+146,500,Additional power for High Tension installations,Electricity and Power Supply,2016-05-05,Proddatur,Andhra
+156,750,Smartcard License,Transport,2016-05-04,Pune,Maharashtra
+174,200,Repair of Telephone or Internet Connection,Telecom Services,2016-05-04,Nanded,Maharashtra
+187,500,Traffic Violations,Police,2016-05-03,Noida,Uttar
+204,200,Registration of Vehicle,Transport,2016-05-02,Thane,Maharashtra
+141,100,Traffic Violations,Transport,2016-05-02,Pune,Maharashtra
+153,"1,000",Traffic Violations,Transport,2016-05-02,Pune,Maharashtra
+123,100,Police Clearance Certificate,Police,2016-05-02,Bangalore,Karnataka
+189,"5,000",Transformer Maintenance,Electricity and Power Supply,2016-04-30,Calicut,Kerala
+190,"2,000",Others,Others,2016-04-30,Nanded,Maharashtra
+245,"50,000",Loan Sanctioning,Banking,2016-04-30,Abhayapuri,Assam
+163,100,Retrieval of lost items,Police,2016-04-29,Bangalore,Karnataka
+157,"2,500",Vehicle Registration Extract,Transport,2016-04-29,Bangalore,Karnataka
+161,"1,500",Police Verification for Passport,Police,2016-04-29,Kolhapur,Maharashtra
+215,"25,000",Loan Sanctioning,Banking,2016-04-29,Amritsar,Punjab
+163,"5,000",Building Construction Approval,Municipal Services,2016-04-29,Chennai,Tamil
